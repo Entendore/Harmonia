@@ -1,0 +1,203 @@
+[
+ {
+  "id": "WORLD_0",
+  "category": "WORLD",
+  "title": "Pentatonic — The Global Scale",
+  "tagline": "Five notes everywhere",
+  "body": "Pentatonic appears independently worldwide: China, Japan, Africa, Scotland, the Andes, blues. Anhemitonic (no semitones) is clash-proof — the piano's black keys are exactly it.",
+  "related": []
+ },
+ {
+  "id": "WORLD_1",
+  "category": "WORLD",
+  "title": "Blues & the African Diaspora",
+  "tagline": "Feeling over perfection",
+  "body": "Blue notes flatten the 3rd, 5th, 7th 'between the keys'; the 12-bar form is the most famous progression on Earth. The blues scale parented jazz, rock, R&B and soul.",
+  "related": [
+   "WORLD_0"
+  ]
+ },
+ {
+  "id": "WORLD_2",
+  "category": "WORLD",
+  "title": "Tuning & Microtonality",
+  "tagline": "Why the piano has 12 keys",
+  "body": "Pure ratios don't close: 12 perfect fifths overshoot the octave. Just intonation is sweet but breaks in distant keys; equal temperament splits the octave into 12 equal semitones — every key usable, every interval slightly impure.",
+  "related": [
+   "EASTERN_6",
+   "EASTERN_3"
+  ]
+ },
+ {
+  "id": "WORLD_3",
+  "category": "WORLD",
+  "title": "Rhythmic Traditions",
+  "tagline": "Timelines, clave and aksak",
+  "body": "West African bell timelines, Cuba's 3-2/2-3 clave, India's tala cycles, Balkan aksak 'limping' metres (7/8 = 2+2+3), and 3-against-4 polyrhythm. Western barlines are one culture among many.",
+  "related": [
+   "EASTERN_2",
+   "WORLD_9"
+  ]
+ },
+ {
+  "id": "WORLD_4",
+  "category": "WORLD",
+  "title": "Instruments of the World",
+  "tagline": "Hornbostel–Sachs",
+  "body": "Chordophones (sitar, koto, kora), aerophones (shakuhachi, didgeridoo), membranophones (tabla, djembe), idiophones (gongs, mbira). Every instrument encodes its culture's theory.",
+  "related": []
+ },
+ {
+  "id": "WORLD_5",
+  "category": "WORLD",
+  "title": "Andes: Siku & Pentatonic Wind",
+  "tagline": "Hockets and panpipes",
+  "body": "The siku comes in paired halves (ira/arca) — two players interlock one melody, hocketing. Quena sings solos; charango and bombo complete the blend.",
+  "related": [
+   "WORLD_0"
+  ]
+ },
+ {
+  "id": "WORLD_6",
+  "category": "WORLD",
+  "title": "Andes: Huayno & Nueva Canción",
+  "tagline": "Village dance to protest song",
+  "body": "Huayno: 2/4 bouncing behind the beat; yaraví is its mournful sibling ('El Cóndor Pasa'). Nueva canción fused it with protest — Violeta Parra to Los Kjarkas.",
+  "related": [
+   "WORLD_5"
+  ]
+ },
+ {
+  "id": "WORLD_7",
+  "category": "WORLD",
+  "title": "Celtic: Modes & Dance Metres",
+  "tagline": "Dorian tunes and reels",
+  "body": "Irish/Scottish melody is intensely modal over drones. Jig 6/8, reel 4/4, hornpipe swung, strathspey's Scotch snap. Eight-bar AABB tunes chain into sets; cuts and rolls ornament by ear.",
+  "related": [
+   "WORLD_10"
+  ]
+ },
+ {
+  "id": "WORLD_8",
+  "category": "WORLD",
+  "title": "Celtic: Sessions & the Fringe",
+  "tagline": "Oral tradition as a network",
+  "body": "The session — no scores, shared repertoire — is the engine. Sean-nós ornaments unaccompanied song. The fringe is wide: Wales, Breton fest-noz, Galician gaita, Cape Breton.",
+  "related": []
+ },
+ {
+  "id": "WORLD_9",
+  "category": "WORLD",
+  "title": "Flamenco: Compás & Palos",
+  "tagline": "Accents in the wrong place",
+  "body": "Soleá accents 3-6-8-10-12 of 12; bulerías flip to start on 12. Tonality is Phrygian driven by the Andalusian cadence Am–G–F–E.",
+  "related": [
+   "WORLD_10",
+   "EASTERN_3"
+  ]
+ },
+ {
+  "id": "WORLD_10",
+  "category": "WORLD",
+  "title": "Klezmer: Modes & the Bulgar",
+  "tagline": "Laughing and crying",
+  "body": "Freygish ('Jewish major') = flat 2 with major 3. The doina improvises free; the bulgar drives weddings in 2/4. The krekhts 'sob' makes the clarinet weep on cue.",
+  "related": [
+   "WORLD_9"
+  ]
+ },
+ {
+  "id": "WORLD_11",
+  "category": "WORLD",
+  "title": "Ethiopia: The Qenet Modes",
+  "tagline": "Five-note systems",
+  "body": "Tizita (nostalgia), bati, ambassel, anchihoye — pentatonics that resist the piano. Azmari poets improvise; Mulatu's Ethio-jazz fuses qenet with funk.",
+  "related": []
+ },
+ {
+  "id": "WORLD_12",
+  "category": "WORLD",
+  "title": "Georgia: Polyphonic Table Songs",
+  "tagline": "Three voices, no conductor",
+  "body": "Three by-ear parts — bass drone, moving middle, soaring top — in open fourths and deliberate dissonances. Gurian krimanchuli yodels between registers.",
+  "related": [
+   "EASTERN_12"
+  ]
+ },
+ {
+  "id": "WORLD_13",
+  "category": "WORLD",
+  "title": "Brazil: Samba & Bossa Nova",
+  "tagline": "Syncopation as identity",
+  "body": "Samba: surdos on 2-and-4, tamborim teleco-teco on top. Bossa added João Gilberto's hushed guitar under Jobim's 7ths and 9ths.",
+  "related": [
+   "WORLD_16"
+  ]
+ },
+ {
+  "id": "WORLD_14",
+  "category": "WORLD",
+  "title": "Tuvan & Mongolia: Khoomei",
+  "tagline": "One voice, two melodies",
+  "body": "Throat singing amplifies the overtone series: a low fundamental drones while the vocal tract boosts one partial at a time — a whistling melody above.",
+  "related": [
+   "WORLD_20"
+  ]
+ },
+ {
+  "id": "WORLD_15",
+  "category": "WORLD",
+  "title": "Bulgaria: Choir & Odd Metres",
+  "tagline": "Sharp edges, limping steps",
+  "body": "Open-throated choirs built on sharp-2nd clashes. Metres are additive: 7/8 (2+2+3), 11/8 kopanitsa (2+2+2+3+2) — danced by body, not numbers.",
+  "related": [
+   "EASTERN_2"
+  ]
+ },
+ {
+  "id": "WORLD_16",
+  "category": "WORLD",
+  "title": "Cuba: The Son",
+  "tagline": "Salsa's DNA",
+  "body": "The tres guitar's guajeo riff rides the son clave while bongó, bass and trumpet answer in call-and-response montunos. 'Chan Chan' is the classic texture.",
+  "related": [
+   "WORLD_13"
+  ]
+ },
+ {
+  "id": "WORLD_17",
+  "category": "WORLD",
+  "title": "Portugal: Fado",
+  "tagline": "Saudade in song",
+  "body": "Lisbon's urban lament: one voice against the bell-like 12-string Portuguese guitar, wrapped in saudade — longing for the absent.",
+  "related": []
+ },
+ {
+  "id": "WORLD_18",
+  "category": "WORLD",
+  "title": "Argentina: Tango",
+  "tagline": "Two cities, one embrace",
+  "body": "Bandoneón, violin, piano and bass weave melancholy for dancers in close embrace. Piazzolla dragged it into 'nuevo'; the Golden Age still rules the milongas.",
+  "related": [
+   "WORLD_17"
+  ]
+ },
+ {
+  "id": "WORLD_19",
+  "category": "WORLD",
+  "title": "Hawai'i: Slack Key & Steel",
+  "tagline": "Loosen the strings",
+  "body": "Kī hō'alu slackens strings into open tunings (Taro Patch = open G) so one thumb carries bass and rhythm. Hawai'i also invented the lap steel (c.1900).",
+  "related": []
+ },
+ {
+  "id": "WORLD_20",
+  "category": "WORLD",
+  "title": "Aboriginal Australia: Songlines",
+  "tagline": "The land sings itself",
+  "body": "Songlines map country through song. The yidaki (didgeridoo) drones with circular breathing into animal voices; clapsticks keep time. Listen with respect.",
+  "related": [
+   "WORLD_14"
+  ]
+ }
+]

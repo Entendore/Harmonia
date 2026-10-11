@@ -1,0 +1,3 @@
+-keepattributes *Annotation*, Signature, InnerClasses, EnclosingMethod
+-keepclassmembers enum com.example.musictheory.** { public static **[] values(); public static ** valueOf(java.lang.String); }
+-dontwarn org.slf4j.**

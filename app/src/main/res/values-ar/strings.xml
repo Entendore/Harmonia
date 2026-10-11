@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">هارمونيا</string>
+    <string name="tab_home">الرئيسية</string><string name="tab_western">غربي</string>
+    <string name="tab_eastern">شرقي</string><string name="tab_world">العالم</string>
+    <string name="tab_games">الألعاب</string><string name="home_daily">تحدي اليوم</string>
+    <string name="common_play_again">العب مجدداً</string>
+</resources>

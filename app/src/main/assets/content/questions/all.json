@@ -1,0 +1,1750 @@
+[
+ {
+  "text": "How many distinct notes does a Western major scale contain?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "Seven unique — the 8th is the octave repeat.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_2",
+  "id": "q000"
+ },
+ {
+  "text": "What is the step pattern of a major scale?",
+  "options": [
+   "W H W W H W W",
+   "W W H W W W H",
+   "W W W H W W H",
+   "H W W W H W W"
+  ],
+  "answer": 1,
+  "explanation": "W W H W W W H — C major is all white keys.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_2",
+  "id": "q001"
+ },
+ {
+  "text": "Which notes form a C major triad?",
+  "options": [
+   "C–E–G",
+   "C–E♭–G",
+   "C–F–A",
+   "C–E–A"
+  ],
+  "answer": 0,
+  "explanation": "Root + major 3rd + perfect 5th.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_4",
+  "id": "q002"
+ },
+ {
+  "text": "What is the relative minor of C major?",
+  "options": [
+   "E minor",
+   "G minor",
+   "A minor",
+   "D minor"
+  ],
+  "answer": 2,
+  "explanation": "Starts on the 6th degree; shares the signature.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_2",
+  "id": "q003"
+ },
+ {
+  "text": "Which mode is identical to the major scale?",
+  "options": [
+   "Dorian",
+   "Mixolydian",
+   "Aeolian",
+   "Ionian"
+  ],
+  "answer": 3,
+  "explanation": "Ionian — C to C on white keys.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_3",
+  "id": "q004"
+ },
+ {
+  "text": "What is the correct order of sharps?",
+  "options": [
+   "F C G D A E B",
+   "B E A D G C F",
+   "F B E A D G C",
+   "C G D A E B F"
+  ],
+  "answer": 0,
+  "explanation": "Father Charles Goes Down And Ends Battle.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_5",
+  "id": "q005"
+ },
+ {
+  "text": "What interval is C up to G?",
+  "options": [
+   "Major 4th",
+   "Perfect 5th",
+   "Perfect 4th",
+   "Major 6th"
+  ],
+  "answer": 1,
+  "explanation": "7 semitones.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_1",
+  "id": "q006"
+ },
+ {
+  "text": "In harmonic minor, which degree is raised?",
+  "options": [
+   "3rd",
+   "6th",
+   "7th",
+   "5th"
+  ],
+  "answer": 2,
+  "explanation": "The raised 7th pulls home.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_2",
+  "id": "q007"
+ },
+ {
+  "text": "There is no black key between which white keys?",
+  "options": [
+   "C–D and F–G",
+   "E–F and B–C",
+   "G–A and D–E",
+   "A–B and D–E"
+  ],
+  "answer": 1,
+  "explanation": "The two natural half steps.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_0",
+  "id": "q008"
+ },
+ {
+  "text": "How many semitones is the tritone?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "Six — the 'devil's interval'.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_1",
+  "id": "q009"
+ },
+ {
+  "text": "The 'Amen' cadence IV→I is called…",
+  "options": [
+   "Plagal",
+   "Deceptive",
+   "Half",
+   "Phrygian"
+  ],
+  "answer": 0,
+  "explanation": "Gentler than V→I.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_4",
+  "id": "q010"
+ },
+ {
+  "text": "A phrase ending on the dominant is a…",
+  "options": [
+   "Deceptive cadence",
+   "Plagal cadence",
+   "Half cadence",
+   "Perfect cadence"
+  ],
+  "answer": 2,
+  "explanation": "It leaves the question open.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_4",
+  "id": "q011"
+ },
+ {
+  "text": "V→vi, dodging the expected tonic, is the…",
+  "options": [
+   "Deceptive cadence",
+   "Authentic cadence",
+   "Plagal cadence",
+   "Backdoor cadence"
+  ],
+  "answer": 0,
+  "explanation": "The 'surprise' resolution.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_4",
+  "id": "q012"
+ },
+ {
+  "text": "The Neapolitan chord is a major chord built on…",
+  "options": [
+   "The flattened 2nd",
+   "The 4th",
+   "The raised 7th",
+   "The 6th"
+  ],
+  "answer": 0,
+  "explanation": "♭II6 in minor keys.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_4",
+  "id": "q013"
+ },
+ {
+  "text": "Modulating up a fifth to the dominant adds…",
+  "options": [
+   "One sharp",
+   "One flat",
+   "Two sharps",
+   "No change"
+  ],
+  "answer": 0,
+  "explanation": "The old 4th becomes the new leading tone.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_5",
+  "id": "q014"
+ },
+ {
+  "text": "3 sharps in a key signature means…",
+  "options": [
+   "E major",
+   "A major",
+   "D major",
+   "B major"
+  ],
+  "answer": 1,
+  "explanation": "F♯ C♯ G♯ = A major.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_5",
+  "id": "q015"
+ },
+ {
+  "text": "In 6/8 time, beats normally divide by…",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "Compound meter divides by 3.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_6",
+  "id": "q016"
+ },
+ {
+  "text": "Accenting weak beats instead of strong ones is…",
+  "options": [
+   "Syncopation",
+   "Legato",
+   "Fermata",
+   "Rubato"
+  ],
+  "answer": 0,
+  "explanation": "Off-beat accents.",
+  "category": "western",
+  "tags": [],
+  "topicId": "WESTERN_6",
+  "id": "q017"
+ },
+ {
+  "text": "Indian swaras Sa Re Ga Ma Pa Dha Ni correspond to…",
+  "options": [
+   "A fixed 12-note scale",
+   "Do Re Mi Fa Sol La Ti",
+   "A rhythmic cycle",
+   "Drone patterns"
+  ],
+  "answer": 1,
+  "explanation": "Sargam — India's solfège.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_0",
+  "id": "q018"
+ },
+ {
+  "text": "How many shrutis divide the octave in Indian theory?",
+  "options": [
+   "12",
+   "17",
+   "22",
+   "24"
+  ],
+  "answer": 2,
+  "explanation": "Finer than 12 semitones.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_0",
+  "id": "q019"
+ },
+ {
+  "text": "The unmetered opening exploration of a raga is the…",
+  "options": [
+   "Alap",
+   "Jhala",
+   "Gat",
+   "Tihai"
+  ],
+  "answer": 0,
+  "explanation": "No tala yet — the raga blooming.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_1",
+  "id": "q020"
+ },
+ {
+  "text": "Raga Yaman most closely resembles which mode?",
+  "options": [
+   "Phrygian",
+   "Lydian",
+   "Locrian",
+   "Aeolian"
+  ],
+  "answer": 1,
+  "explanation": "Raised-4th radiance.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_1",
+  "id": "q021"
+ },
+ {
+  "text": "The composed, tala-accompanied melody after alap is the…",
+  "options": [
+   "Gat",
+   "Tihai",
+   "Sargam",
+   "Pakad"
+  ],
+  "answer": 0,
+  "explanation": "Where tabla enters.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_1",
+  "id": "q022"
+ },
+ {
+  "text": "A hereditary school of Indian musicians is a…",
+  "options": [
+   "Gharana",
+   "Gosu",
+   "Meend",
+   "Jins"
+  ],
+  "answer": 0,
+  "explanation": "Stylistic DNA.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_1",
+  "id": "q023"
+ },
+ {
+  "text": "How many beats in Teentaal?",
+  "options": [
+   "6",
+   "8",
+   "12",
+   "16"
+  ],
+  "answer": 3,
+  "explanation": "4+4+4+4.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_2",
+  "id": "q024"
+ },
+ {
+  "text": "The dramatic point of return in a tala cycle is…",
+  "options": [
+   "Sam",
+   "Khali",
+   "Matra",
+   "Laya"
+  ],
+  "answer": 0,
+  "explanation": "Beat one.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_2",
+  "id": "q025"
+ },
+ {
+  "text": "A phrase repeated three times landing on sam is a…",
+  "options": [
+   "Tihai",
+   "Layakari",
+   "Khali",
+   "Theka"
+  ],
+  "answer": 0,
+  "explanation": "Tala's mathematical cadence.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_2",
+  "id": "q026"
+ },
+ {
+  "text": "The interval giving Maqam Hijaz its sound?",
+  "options": [
+   "Perfect 4th",
+   "Tritone",
+   "Augmented 2nd",
+   "Minor 7th"
+  ],
+  "answer": 2,
+  "explanation": "The classic 'Middle Eastern' colour.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_3",
+  "id": "q027"
+ },
+ {
+  "text": "Arabic maqam music uses pitches that are…",
+  "options": [
+   "Only naturals",
+   "Half-flat / quarter tones",
+   "Always major",
+   "Octave-doubled"
+  ],
+  "answer": 1,
+  "explanation": "Between the piano's keys.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_3",
+  "id": "q028"
+ },
+ {
+  "text": "Maqam Rast is closest to…",
+  "options": [
+   "Harmonic minor",
+   "Major with half-flat 3rd & 7th",
+   "Whole-tone",
+   "Blues scale"
+  ],
+  "answer": 1,
+  "explanation": "The noble 'do'.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_3",
+  "id": "q029"
+ },
+ {
+  "text": "Arabic rhythmic cycles are called…",
+  "options": [
+   "Iqa'at",
+   "Maqamat",
+   "Ajnas",
+   "Sayr"
+  ],
+  "answer": 0,
+  "explanation": "The drummed skeleton.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_3",
+  "id": "q030"
+ },
+ {
+  "text": "Non-metric Arabic vocal improvisation is the…",
+  "options": [
+   "Mawwal",
+   "Dabke",
+   "Muwashshah",
+   "Dawr"
+  ],
+  "answer": 0,
+  "explanation": "Sung cousin of the taqsim.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_3",
+  "id": "q031"
+ },
+ {
+  "text": "The five notes of the Chinese wuyin scale are…",
+  "options": [
+   "Raga, tala, sam",
+   "Gong Shang Jue Zhi Yu",
+   "Rast, Bayati, Hijaz",
+   "Yo, In, Iwato"
+  ],
+  "answer": 1,
+  "explanation": "≈ Do Re Mi Sol La.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_4",
+  "id": "q032"
+ },
+ {
+  "text": "The 7-string scholar's zither of China is the…",
+  "options": [
+   "Guqin",
+   "Pipa",
+   "Erhu",
+   "Dizi"
+  ],
+  "answer": 0,
+  "explanation": "The contemplative master's instrument.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_4",
+  "id": "q033"
+ },
+ {
+  "text": "'Silk and bamboo' chamber ensembles near Shanghai are…",
+  "options": [
+   "Jiangnan sizhu",
+   "Xi'an guyue",
+   "Chaozhou zheng",
+   "Cantonese yue"
+  ],
+  "answer": 0,
+  "explanation": "Silk strings, bamboo flutes.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_4",
+  "id": "q034"
+ },
+ {
+  "text": "Which instrument is central to Japanese chamber music?",
+  "options": [
+   "Oud",
+   "Koto",
+   "Sitar",
+   "Djembe"
+  ],
+  "answer": 1,
+  "explanation": "13-string zither.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_5",
+  "id": "q035"
+ },
+ {
+  "text": "Japan's oldest continuous court orchestra tradition is…",
+  "options": [
+   "Gagaku",
+   "Min'yō",
+   "Sōkyoku",
+   "Nagauta"
+  ],
+  "answer": 0,
+  "explanation": "Over 1,200 years.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_5",
+  "id": "q036"
+ },
+ {
+  "text": "The Nohkan flute is famous for…",
+  "options": [
+   "Equal temperament",
+   "Matching no fixed temperament",
+   "Being unfretted",
+   "Quarter tones only"
+  ],
+  "answer": 1,
+  "explanation": "Its 'off' intonation cuts through.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_5",
+  "id": "q037"
+ },
+ {
+  "text": "Japanese folk song most often uses which scale?",
+  "options": [
+   "Yo",
+   "Iwato",
+   "Whole-tone",
+   "Rast"
+  ],
+  "answer": 0,
+  "explanation": "Semitone-free brightness.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_5",
+  "id": "q038"
+ },
+ {
+  "text": "The two gamelan tuning systems are…",
+  "options": [
+   "Slendro & Pelog",
+   "Rast & Bayati",
+   "Ionian & Aeolian",
+   "Yo & In"
+  ],
+  "answer": 0,
+  "explanation": "Five near-equal vs seven uneven.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_6",
+  "id": "q039"
+ },
+ {
+  "text": "The shimmer between paired Balinese orchestras is…",
+  "options": [
+   "Ombak — 'wave'",
+   "Ma",
+   "Sigimsae",
+   "Sayr"
+  ],
+  "answer": 0,
+  "explanation": "Tuned slightly apart on purpose.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_6",
+  "id": "q040"
+ },
+ {
+  "text": "The shadow-puppet theatre tied to gamelan is…",
+  "options": [
+   "Wayang kulit",
+   "Kathakali",
+   "Noh",
+   "Jangi"
+  ],
+  "answer": 0,
+  "explanation": "The dalang cues the moods.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_6",
+  "id": "q041"
+ },
+ {
+  "text": "The Balinese interlocking 'monkey chant' is…",
+  "options": [
+   "Kecak",
+   "Kotekan",
+   "Kecapi",
+   "Karawitan"
+  ],
+  "answer": 0,
+  "explanation": "Voices as gamelan.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_6",
+  "id": "q042"
+ },
+ {
+  "text": "Javanese gamelan sets are tuned…",
+  "options": [
+   "Exactly alike",
+   "Uniquely — no two alike",
+   "Always A440",
+   "Only slendro"
+  ],
+  "answer": 1,
+  "explanation": "Each set its own universe.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_6",
+  "id": "q043"
+ },
+ {
+  "text": "Korean modes are defined chiefly by their…",
+  "options": [
+   "Scales",
+   "Sigimsae ornaments",
+   "Time signatures",
+   "Drone"
+  ],
+  "answer": 1,
+  "explanation": "The ornament makes the mode.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_7",
+  "id": "q044"
+ },
+ {
+  "text": "The Korean cylindrical double-reed is the…",
+  "options": [
+   "Piri",
+   "Daegeum",
+   "Haegeum",
+   "Taepyeongso"
+  ],
+  "answer": 0,
+  "explanation": "The oboe-voiced carrier.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_7",
+  "id": "q045"
+ },
+ {
+  "text": "'Arirang' matters culturally because…",
+  "options": [
+   "It's a royal anthem",
+   "Every region keeps its own variant",
+   "Written for gayageum",
+   "It has no words"
+  ],
+  "answer": 1,
+  "explanation": "Folk identity in song.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_7",
+  "id": "q046"
+ },
+ {
+  "text": "The Korean hourglass drum is the…",
+  "options": [
+   "Taiko",
+   "Janggu",
+   "Bodhrán",
+   "Tabla"
+  ],
+  "answer": 1,
+  "explanation": "One deep head, one bright.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_8",
+  "id": "q047"
+ },
+ {
+  "text": "In pansori the drummer supports the singer by…",
+  "options": [
+   "Counter-melodies",
+   "Changing keys",
+   "Shouting chuimsae",
+   "Silence"
+  ],
+  "answer": 2,
+  "explanation": "Rhythm and applause at once.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_8",
+  "id": "q048"
+ },
+ {
+  "text": "The canonical memorised Persian repertoire is the…",
+  "options": [
+   "Radif",
+   "Maqam",
+   "Raga",
+   "Nay"
+  ],
+  "answer": 0,
+  "explanation": "~300 gushehs over years.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_9",
+  "id": "q049"
+ },
+ {
+  "text": "Persian quarter-flat and quarter-sharp signs are…",
+  "options": [
+   "Koron and sori",
+   "Bemol and diesis",
+   "Sori and tahrir",
+   "Shruti and gamaka"
+  ],
+  "answer": 0,
+  "explanation": "Koron lowers, sori raises.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_9",
+  "id": "q050"
+ },
+ {
+  "text": "How many melodic systems in the Persian radif?",
+  "options": [
+   "7",
+   "10",
+   "12",
+   "24"
+  ],
+  "answer": 2,
+  "explanation": "Seven dastgah + five avaz.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_9",
+  "id": "q051"
+ },
+ {
+  "text": "The Persian yodel-like vocal break is…",
+  "options": [
+   "Tahrir",
+   "Taqsim",
+   "Sigimsae",
+   "Layakari"
+  ],
+  "answer": 0,
+  "explanation": "Between registers.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_10",
+  "id": "q052"
+ },
+ {
+  "text": "A composed Persian song between avaz sections is the…",
+  "options": [
+   "Tasnif",
+   "Radif",
+   "Forud",
+   "Dastgah"
+  ],
+  "answer": 0,
+  "explanation": "Metered breath between flight.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_10",
+  "id": "q053"
+ },
+ {
+  "text": "Persia's whirlwind virtuosic piece is the…",
+  "options": [
+   "Chaharmezrab",
+   "Tasnif",
+   "Avaz",
+   "Pishdaramad"
+  ],
+  "answer": 0,
+  "explanation": "Faster than should be legal.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_10",
+  "id": "q054"
+ },
+ {
+  "text": "Turkish theory divides whole tones into…",
+  "options": [
+   "5 commas",
+   "9 commas",
+   "12 commas",
+   "2 commas"
+  ],
+  "answer": 1,
+  "explanation": "Between the piano's keys.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_11",
+  "id": "q055"
+ },
+ {
+  "text": "Turkish rhythmic cycles are called…",
+  "options": [
+   "Usul",
+   "Compás",
+   "Jangdan",
+   "Thaat"
+  ],
+  "answer": 0,
+  "explanation": "Düm and tek strokes.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_12",
+  "id": "q056"
+ },
+ {
+  "text": "Turkish 9/8 aksak groups as…",
+  "options": [
+   "3+3+3",
+   "2+2+2+3",
+   "4+5",
+   "2+3+2+2"
+  ],
+  "answer": 1,
+  "explanation": "The limping walk.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_12",
+  "id": "q057"
+ },
+ {
+  "text": "The low and high usul strokes are…",
+  "options": [
+   "Düm and tek",
+   "Dha and tin",
+   "Sam and khali",
+   "Boom and bap"
+  ],
+  "answer": 0,
+  "explanation": "Low head and rim.",
+  "category": "eastern",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "EASTERN_12",
+  "id": "q058"
+ },
+ {
+  "text": "The classical Ottoman suite is the…",
+  "options": [
+   "Fasıl",
+   "Pesendide",
+   "Saz semai",
+   "Sirto"
+  ],
+  "answer": 0,
+  "explanation": "One makam, many movements.",
+  "category": "eastern",
+  "tags": [],
+  "topicId": "EASTERN_12",
+  "id": "q059"
+ },
+ {
+  "text": "How many notes in a pentatonic scale?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "Penta = five.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_0",
+  "id": "q060"
+ },
+ {
+  "text": "The piano's black keys alone form which scale?",
+  "options": [
+   "Major",
+   "Anhemitonic pentatonic",
+   "Blues",
+   "Whole-tone"
+  ],
+  "answer": 1,
+  "explanation": "Clash-proof in any order.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_0",
+  "id": "q061"
+ },
+ {
+  "text": "Which scale degrees are typically 'blue notes'?",
+  "options": [
+   "1, 4, 5",
+   "2, 6",
+   "3, 5, 7",
+   "6, 7"
+  ],
+  "answer": 2,
+  "explanation": "Flattened 3rd, 5th, 7th.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_1",
+  "id": "q062"
+ },
+ {
+  "text": "The 12-bar blues uses which progression?",
+  "options": [
+   "ii–V–I",
+   "I–IV–V",
+   "I–vi–ii–V",
+   "vi–IV–I–V"
+  ],
+  "answer": 1,
+  "explanation": "Four I, two IV, two I, then V–IV–I.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_1",
+  "id": "q063"
+ },
+ {
+  "text": "12-tone equal temperament divides the octave into…",
+  "options": [
+   "7 equal steps",
+   "12 equal semitones",
+   "22 shrutis",
+   "24 maqamat"
+  ],
+  "answer": 1,
+  "explanation": "The 18th-century compromise.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_2",
+  "id": "q064"
+ },
+ {
+  "text": "An octave is a frequency ratio of…",
+  "options": [
+   "3:2",
+   "4:3",
+   "2:1",
+   "9:8"
+  ],
+  "answer": 2,
+  "explanation": "Double the frequency.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_2",
+  "id": "q065"
+ },
+ {
+  "text": "One equal-tempered semitone measures…",
+  "options": [
+   "50 cents",
+   "100 cents",
+   "120 cents",
+   "22 cents"
+  ],
+  "answer": 1,
+  "explanation": "1200 cents to the octave.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_2",
+  "id": "q066"
+ },
+ {
+  "text": "Balkan 'aksak' 7/8 commonly groups as…",
+  "options": [
+   "4+3",
+   "3+3+1",
+   "2+2+3",
+   "1+6"
+  ],
+  "answer": 2,
+  "explanation": "The limping walk.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_3",
+  "id": "q067"
+ },
+ {
+  "text": "The West African 12/8 bell pattern is also called the…",
+  "options": [
+   "Bembé timeline",
+   "Clave",
+   "Aksak",
+   "Hemiola"
+  ],
+  "answer": 0,
+  "explanation": "Seven strokes, half the world's grooves.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_3",
+  "id": "q068"
+ },
+ {
+  "text": "The 3-2 vs 2-3 direction of the clave…",
+  "options": [
+   "Is arbitrary",
+   "Defines where melodies and phrases sit",
+   "Only matters to dancers",
+   "Was invented in New York"
+  ],
+  "answer": 1,
+  "explanation": "Flipping it flips everything.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_3",
+  "id": "q069"
+ },
+ {
+  "text": "Hornbostel–Sachs classifies instruments by…",
+  "options": [
+   "Country",
+   "How their material vibrates",
+   "Pitch range",
+   "Age"
+  ],
+  "answer": 1,
+  "explanation": "Four families.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_4",
+  "id": "q070"
+ },
+ {
+  "text": "The one-string instrument that referees capoeira is the…",
+  "options": [
+   "Berimbau",
+   "Mbira",
+   "Kora",
+   "Ngoma"
+  ],
+  "answer": 0,
+  "explanation": "Its toques set the game's speed.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_4",
+  "id": "q071"
+ },
+ {
+  "text": "The mbira dzavadzimu belongs to which tradition?",
+  "options": [
+   "Zimbabwe (Shona)",
+   "Mali",
+   "Java",
+   "Peru"
+  ],
+  "answer": 0,
+  "explanation": "Buzzers add an overtone halo.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_4",
+  "id": "q072"
+ },
+ {
+  "text": "The 21-string harp-lute of West African griots is the…",
+  "options": [
+   "Kora",
+   "Ngoni",
+   "Bolon",
+   "Xalam"
+  ],
+  "answer": 0,
+  "explanation": "Thumbs and forefingers at once.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_4",
+  "id": "q073"
+ },
+ {
+  "text": "Andean panpipe ensembles interlock melodies — a technique called…",
+  "options": [
+   "Hocketing",
+   "Call and response",
+   "Ostinato",
+   "Polyphony"
+  ],
+  "answer": 0,
+  "explanation": "Ira and arca alternate.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_5",
+  "id": "q074"
+ },
+ {
+  "text": "The small Andean lute over an armadillo shell is the…",
+  "options": [
+   "Charango",
+   "Balalaika",
+   "Koto",
+   "Oud"
+  ],
+  "answer": 0,
+  "explanation": "Ten strings, five courses.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_5",
+  "id": "q075"
+ },
+ {
+  "text": "The massed panpipe festival tradition of the Titicaca plateau is…",
+  "options": [
+   "Sikuriada",
+   "Festejo",
+   "Huayno",
+   "Marinera"
+  ],
+  "answer": 0,
+  "explanation": "A community as one instrument.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_5",
+  "id": "q076"
+ },
+ {
+  "text": "The energetic 2/4 highland Andean dance genre is the…",
+  "options": [
+   "Reel",
+   "Huayno",
+   "Klezmer",
+   "Saeta"
+  ],
+  "answer": 1,
+  "explanation": "Bounces behind the beat.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_6",
+  "id": "q077"
+ },
+ {
+  "text": "The Irish dance form in 6/8 is the…",
+  "options": [
+   "Reel",
+   "Hornpipe",
+   "Jig",
+   "Strathspey"
+  ],
+  "answer": 2,
+  "explanation": "Reels 4/4; slip jigs 9/8.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_7",
+  "id": "q078"
+ },
+ {
+  "text": "Uilleann pipes are inflated by…",
+  "options": [
+   "The mouth",
+   "Bellows",
+   "Foot pedals",
+   "Air pumps"
+  ],
+  "answer": 1,
+  "explanation": "Bellows under the elbow.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_8",
+  "id": "q079"
+ },
+ {
+  "text": "The Scottish short–long rhythm of the strathspey is the…",
+  "options": [
+   "Swing",
+   "Tresillo",
+   "Hemiola",
+   "Scotch snap"
+  ],
+  "answer": 3,
+  "explanation": "Short on the beat, then long.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_8",
+  "id": "q080"
+ },
+ {
+  "text": "Soleá accents its 12 beats on…",
+  "options": [
+   "1-4-7-10",
+   "3-6-8-10-12",
+   "2-5-9",
+   "Every beat"
+  ],
+  "answer": 1,
+  "explanation": "Why compás defies barlines.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_9",
+  "id": "q081"
+ },
+ {
+  "text": "Flamenco's descending tonal progression is the…",
+  "options": [
+   "Andalusian cadence",
+   "Riemann cadence",
+   "Plagal cadence",
+   "Backdoor cadence"
+  ],
+  "answer": 0,
+  "explanation": "Am–G–F–E.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_9",
+  "id": "q082"
+ },
+ {
+  "text": "Siguiriyas, flamenco's deepest palo, is…",
+  "options": [
+   "A fast 6/8 dance",
+   "A 12-beat compás with its own accent map",
+   "In 4/4",
+   "Unmetered"
+  ],
+  "answer": 1,
+  "explanation": "Solemnity in displaced accents.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_9",
+  "id": "q083"
+ },
+ {
+  "text": "The klezmer mode called 'Jewish major' is…",
+  "options": [
+   "Freygish",
+   "Dorian",
+   "Lydian",
+   "Whole-tone"
+  ],
+  "answer": 0,
+  "explanation": "Flat 2nd with major 3rd.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_10",
+  "id": "q084"
+ },
+ {
+  "text": "The klezmer dance in 3/8 is the…",
+  "options": [
+   "Terkisher",
+   "Bulgar",
+   "Sher",
+   "Freylakhs"
+  ],
+  "answer": 0,
+  "explanation": "The limping celebration.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_10",
+  "id": "q085"
+ },
+ {
+  "text": "Tizita, the nostalgic Ethiopian mode, resembles…",
+  "options": [
+   "Whole-tone",
+   "Major pentatonic",
+   "Chromatic",
+   "Octatonic"
+  ],
+  "answer": 1,
+  "explanation": "The qenet system.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_11",
+  "id": "q086"
+ },
+ {
+  "text": "Georgian table songs are typically sung in…",
+  "options": [
+   "Unison",
+   "Three polyphonic parts",
+   "Two voices",
+   "Call and response"
+  ],
+  "answer": 1,
+  "explanation": "Drone and polyphony.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_12",
+  "id": "q087"
+ },
+ {
+  "text": "Bossa nova harmony loves…",
+  "options": [
+   "Power chords",
+   "7th and 9th chords",
+   "Open fifths",
+   "Octave doublings"
+  ],
+  "answer": 1,
+  "explanation": "Jobim's extensions.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_13",
+  "id": "q088"
+ },
+ {
+  "text": "The deep bass drum of a Rio bateria is the…",
+  "options": [
+   "Surdo",
+   "Pandeiro",
+   "Berimbau",
+   "Cavaquinho"
+  ],
+  "answer": 0,
+  "explanation": "The floor under the tamborims.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_13",
+  "id": "q089"
+ },
+ {
+  "text": "Samba's rolling syncopated inner groove is…",
+  "options": [
+   "Partido alto",
+   "Frevo",
+   "Forró",
+   "Maracatu"
+  ],
+  "answer": 0,
+  "explanation": "The engine room.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_13",
+  "id": "q090"
+ },
+ {
+  "text": "Throat singing producing drone plus whistle is…",
+  "options": [
+   "Tahrir",
+   "Khoomei",
+   "Sigimsae",
+   "Layakari"
+  ],
+  "answer": 1,
+  "explanation": "Overtone melody over a drone.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_14",
+  "id": "q091"
+ },
+ {
+  "text": "The 2nd partial (first overtone) sounds…",
+  "options": [
+   "An octave higher",
+   "A fifth higher",
+   "An octave lower",
+   "A third higher"
+  ],
+  "answer": 0,
+  "explanation": "2× the frequency.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_14",
+  "id": "q092"
+ },
+ {
+  "text": "Bulgarian choir is famous for…",
+  "options": [
+   "Gentle unison",
+   "Sharp dissonances and odd metres",
+   "Jazz harmony",
+   "Pure thirds"
+  ],
+  "answer": 1,
+  "explanation": "Bel Canto of the Balkans.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_15",
+  "id": "q093"
+ },
+ {
+  "text": "The Bulgarian Kopanitsa metre is…",
+  "options": [
+   "4/4",
+   "3/4",
+   "11/8 grouped 2+2+2+3+2",
+   "12/8"
+  ],
+  "answer": 2,
+  "explanation": "Five unequal beats.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_15",
+  "id": "q094"
+ },
+ {
+  "text": "The Cuban genre built on tres guitar and son clave is…",
+  "options": [
+   "Tango",
+   "Fado",
+   "Son",
+   "Fandango"
+  ],
+  "answer": 2,
+  "explanation": "Salsa's parent.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_16",
+  "id": "q095"
+ },
+ {
+  "text": "The small guitar-like heart of Cuban son is the…",
+  "options": [
+   "Charango",
+   "Tres",
+   "Cavaquinho",
+   "Bandurria"
+  ],
+  "answer": 1,
+  "explanation": "It plays the guajeo.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_16",
+  "id": "q096"
+ },
+ {
+  "text": "Fado, the 'fate song', comes from…",
+  "options": [
+   "Portugal",
+   "Brazil",
+   "Cape Verde",
+   "Spain"
+  ],
+  "answer": 0,
+  "explanation": "Sung with saudade.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_17",
+  "id": "q097"
+ },
+ {
+  "text": "Fado's plucked 12-string companion is the…",
+  "options": [
+   "Bandurria",
+   "Portuguese guitar",
+   "Laúd",
+   "Timple"
+  ],
+  "answer": 1,
+  "explanation": "Bell-like tumbling runs.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_17",
+  "id": "q098"
+ },
+ {
+  "text": "Tango was born in…",
+  "options": [
+   "Madrid",
+   "Buenos Aires & Montevideo",
+   "Havana",
+   "Lisbon"
+  ],
+  "answer": 1,
+  "explanation": "Río de la Plata ports.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_18",
+  "id": "q099"
+ },
+ {
+  "text": "Tango's wheezy breathing voice is the…",
+  "options": [
+   "Accordion",
+   "Bandoneón",
+   "Harmonium",
+   "Melodica"
+  ],
+  "answer": 1,
+  "explanation": "A German concertina gone Argentine.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_18",
+  "id": "q100"
+ },
+ {
+  "text": "Tango's faster rhythmic ancestor is the…",
+  "options": [
+   "Milonga",
+   "Habanera",
+   "Zamba",
+   "Chacarera"
+  ],
+  "answer": 0,
+  "explanation": "It still runs the milongas.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_18",
+  "id": "q101"
+ },
+ {
+  "text": "Hawaiian slack key guitar is defined by…",
+  "options": [
+   "Loosened open tunings, fingerpicked",
+   "Steel slides only",
+   "Twelve strings",
+   "Capos everywhere"
+  ],
+  "answer": 0,
+  "explanation": "One thumb carries bass.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_19",
+  "id": "q102"
+ },
+ {
+  "text": "The lap steel guitar was invented in…",
+  "options": [
+   "Nashville",
+   "Hawai'i",
+   "Seville",
+   "Vienna"
+  ],
+  "answer": 1,
+  "explanation": "Joseph Kekuku, c. 1900.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_19",
+  "id": "q103"
+ },
+ {
+  "text": "The didgeridoo belongs to…",
+  "options": [
+   "Māori",
+   "Aboriginal Australians",
+   "Papuans",
+   "Sami"
+  ],
+  "answer": 1,
+  "explanation": "Termite-hollowed eucalyptus.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_20",
+  "id": "q104"
+ },
+ {
+  "text": "In Yolngu country the didgeridoo is the…",
+  "options": [
+   "Yidaki",
+   "Pūrerehua",
+   "Kundu",
+   "Gumatj"
+  ],
+  "answer": 0,
+  "explanation": "An outsider onomatopoeia.",
+  "category": "world",
+  "tags": [],
+  "topicId": "WORLD_20",
+  "id": "q105"
+ },
+ {
+  "text": "Aboriginal clapsticks (bilma) function as…",
+  "options": [
+   "The timekeeper beside yidaki drone",
+   "Melody instruments",
+   "Rattles",
+   "Decoration only"
+  ],
+  "answer": 0,
+  "explanation": "Clap and drone.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": "WORLD_20",
+  "id": "q106"
+ },
+ {
+  "text": "A sung phrase answered by another voice is…",
+  "options": [
+   "Call and response",
+   "Solfège",
+   "Col legno",
+   "Legato"
+  ],
+  "answer": 0,
+  "explanation": "Engine of diaspora musics.",
+  "category": "world",
+  "tags": [],
+  "topicId": null,
+  "id": "q107"
+ },
+ {
+  "text": "A short repeating anchoring pattern is an…",
+  "options": [
+   "Ostinato",
+   "Aria",
+   "Etude",
+   "Codetta"
+  ],
+  "answer": 0,
+  "explanation": "Riffs, guajeos, timelines.",
+  "category": "world",
+  "tags": [],
+  "topicId": null,
+  "id": "q108"
+ },
+ {
+  "text": "The characteristic colour of a sound is its…",
+  "options": [
+   "Timbre",
+   "Tempo",
+   "Tessitura",
+   "Tonic"
+  ],
+  "answer": 0,
+  "explanation": "Why sitar ≠ violin.",
+  "category": "world",
+  "tags": [],
+  "topicId": null,
+  "id": "q109"
+ },
+ {
+  "text": "Texture of one melody plus accompaniment is…",
+  "options": [
+   "Monophony",
+   "Homophony",
+   "Polyphony",
+   "Heterophony"
+  ],
+  "answer": 1,
+  "explanation": "Polyphony = independent lines.",
+  "category": "world",
+  "tags": [],
+  "topicId": null,
+  "id": "q110"
+ },
+ {
+  "text": "Dave Brubeck's 'Take Five' popularised…",
+  "options": [
+   "5/4",
+   "7/8",
+   "12/8",
+   "3/4"
+  ],
+  "answer": 0,
+  "explanation": "Jazz's gateway to five.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": null,
+  "id": "q111"
+ },
+ {
+  "text": "Reggae's 'one-drop' places kick and snare…",
+  "options": [
+   "On 1 and 3",
+   "Together on beat 3",
+   "Every beat",
+   "Only on 1"
+  ],
+  "answer": 1,
+  "explanation": "The missing beat 1 IS the groove.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": null,
+  "id": "q112"
+ },
+ {
+  "text": "A Rio samba bateria can contain…",
+  "options": [
+   "Dozens",
+   "Hundreds in layered patterns",
+   "Only surdos",
+   "One percussionist"
+  ],
+  "answer": 1,
+  "explanation": "Threads in one fabric.",
+  "category": "world",
+  "tags": [
+   "rhythm"
+  ],
+  "topicId": null,
+  "id": "q113"
+ }
+]

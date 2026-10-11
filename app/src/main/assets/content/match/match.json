@@ -1,0 +1,332 @@
+[
+ {
+  "id": "m00",
+  "concept": "Raga",
+  "correct": "Indian classical",
+  "distractors": [
+   "Arabic",
+   "Japanese",
+   "Indonesian"
+  ],
+  "explanation": "India's melodic framework."
+ },
+ {
+  "id": "m01",
+  "concept": "Maqam",
+  "correct": "Arabic / Middle Eastern",
+  "distractors": [
+   "Western",
+   "Chinese",
+   "West African"
+  ],
+  "explanation": "Quarter-tone melodic system."
+ },
+ {
+  "id": "m02",
+  "concept": "Gamelan ensemble",
+  "correct": "Indonesian",
+  "distractors": [
+   "Indian",
+   "Japanese",
+   "Cuban"
+  ],
+  "explanation": "Gongs of Java and Bali."
+ },
+ {
+  "id": "m03",
+  "concept": "Shakuhachi flute",
+  "correct": "Japanese",
+  "distractors": [
+   "Chinese",
+   "Arabic",
+   "Indian"
+  ],
+  "explanation": "End-blown bamboo."
+ },
+ {
+  "id": "m04",
+  "concept": "Sitar",
+  "correct": "Indian classical",
+  "distractors": [
+   "Indonesian",
+   "Turkish",
+   "Korean"
+  ],
+  "explanation": "Sympathetic strings, raga frets."
+ },
+ {
+  "id": "m05",
+  "concept": "Oud",
+  "correct": "Arabic / Middle Eastern",
+  "distractors": [
+   "Japanese",
+   "Russian",
+   "Peruvian"
+  ],
+  "explanation": "Unfretted lute."
+ },
+ {
+  "id": "m06",
+  "concept": "Clave rhythm",
+  "correct": "Afro-Cuban",
+  "distractors": [
+   "Indian",
+   "Japanese",
+   "Mongolian"
+  ],
+  "explanation": "3-2 / 2-3 spine."
+ },
+ {
+  "id": "m07",
+  "concept": "Guzheng zither",
+  "correct": "Chinese",
+  "distractors": [
+   "Greek",
+   "Iranian",
+   "Nigerian"
+  ],
+  "explanation": "Ancient Chinese zither."
+ },
+ {
+  "id": "m08",
+  "concept": "Kora harp-lute",
+  "correct": "West African",
+  "distractors": [
+   "Balinese",
+   "Irish",
+   "Egyptian"
+  ],
+  "explanation": "21 strings, griots."
+ },
+ {
+  "id": "m09",
+  "concept": "Tabla",
+  "correct": "Indian classical",
+  "distractors": [
+   "Spanish",
+   "Egyptian",
+   "Vietnamese"
+  ],
+  "explanation": "Keeps tala."
+ },
+ {
+  "id": "m10",
+  "concept": "Teentaal (16 beats)",
+  "correct": "Indian classical",
+  "distractors": [
+   "Indonesian",
+   "Andean",
+   "Balkan"
+  ],
+  "explanation": "The 16-beat cycle."
+ },
+ {
+  "id": "m11",
+  "concept": "Hirajoshi scale",
+  "correct": "Japanese",
+  "distractors": [
+   "Chinese",
+   "Arabic",
+   "Jamaican"
+  ],
+  "explanation": "The koto's scale."
+ },
+ {
+  "id": "m12",
+  "concept": "Slendro tuning",
+  "correct": "Indonesian",
+  "distractors": [
+   "Indian",
+   "Chinese",
+   "Egyptian"
+  ],
+  "explanation": "Five near-equal steps."
+ },
+ {
+  "id": "m13",
+  "concept": "Taqsim improvisation",
+  "correct": "Arabic / Middle Eastern",
+  "distractors": [
+   "Japanese",
+   "Brazilian",
+   "Tibetan"
+  ],
+  "explanation": "Solo maqam exploration."
+ },
+ {
+  "id": "m14",
+  "concept": "Wuyin pentatonic",
+  "correct": "Chinese",
+  "distractors": [
+   "Indian",
+   "Arabic",
+   "Western"
+  ],
+  "explanation": "The five tones."
+ },
+ {
+  "id": "m15",
+  "concept": "Didgeridoo drone",
+  "correct": "Aboriginal Australian",
+  "distractors": [
+   "Austrian",
+   "Japanese",
+   "Chilean"
+  ],
+  "explanation": "Circular breathing."
+ },
+ {
+  "id": "m16",
+  "concept": "Janggu drum",
+  "correct": "Korean",
+  "distractors": [
+   "Japanese",
+   "Persian",
+   "Turkish"
+  ],
+  "explanation": "Hourglass drum."
+ },
+ {
+  "id": "m17",
+  "concept": "Gayageum zither",
+  "correct": "Korean",
+  "distractors": [
+   "Indonesian",
+   "Persian",
+   "Moroccan"
+  ],
+  "explanation": "Korea's 12-string zither."
+ },
+ {
+  "id": "m18",
+  "concept": "Santur (hammered dulcimer)",
+  "correct": "Persian",
+  "distractors": [
+   "Hungarian",
+   "Korean",
+   "Peruvian"
+  ],
+  "explanation": "Ancestor of the family."
+ },
+ {
+  "id": "m19",
+  "concept": "Tar lute",
+  "correct": "Persian",
+  "distractors": [
+   "Hawaiian",
+   "Irish",
+   "Malian"
+  ],
+  "explanation": "Double-bowled lute."
+ },
+ {
+  "id": "m20",
+  "concept": "Charango",
+  "correct": "Andean",
+  "distractors": [
+   "Nordic",
+   "Caucasian",
+   "Polynesian"
+  ],
+  "explanation": "Armadillo-backed 10-string."
+ },
+ {
+  "id": "m21",
+  "concept": "Siku panpipes",
+  "correct": "Andean",
+  "distractors": [
+   "Balinese",
+   "Mongolian",
+   "Serbian"
+  ],
+  "explanation": "Hocketing pipes."
+ },
+ {
+  "id": "m22",
+  "concept": "Uilleann pipes",
+  "correct": "Irish / Celtic",
+  "distractors": [
+   "Bulgarian",
+   "Egyptian",
+   "Javanese"
+  ],
+  "explanation": "Bellows-blown with regulators."
+ },
+ {
+  "id": "m23",
+  "concept": "Bodhrán frame drum",
+  "correct": "Irish / Celtic",
+  "distractors": [
+   "Sami",
+   "Inuit",
+   "Basque"
+  ],
+  "explanation": "Tipper-beaten frame drum."
+ },
+ {
+  "id": "m24",
+  "concept": "Makam (Turkish)",
+  "correct": "Turkish",
+  "distractors": [
+   "Indonesian",
+   "Andean",
+   "Korean"
+  ],
+  "explanation": "Commas and seyir."
+ },
+ {
+  "id": "m25",
+  "concept": "Usul rhythm",
+  "correct": "Turkish",
+  "distractors": [
+   "Georgian",
+   "Ethiopian",
+   "Klezmer"
+  ],
+  "explanation": "Cyclical accompaniment."
+ },
+ {
+  "id": "m26",
+  "concept": "Compás",
+  "correct": "Flamenco (Spain)",
+  "distractors": [
+   "Turkish",
+   "Hawaiian",
+   "Mongolian"
+  ],
+  "explanation": "Each palo's cycle."
+ },
+ {
+  "id": "m27",
+  "concept": "Freygish mode",
+  "correct": "Klezmer (Jewish)",
+  "distractors": [
+   "Brazilian",
+   "Korean",
+   "Andean"
+  ],
+  "explanation": "The 'Jewish major'."
+ },
+ {
+  "id": "m28",
+  "concept": "Tizita mode",
+  "correct": "Ethiopian",
+  "distractors": [
+   "Turkish",
+   "Irish",
+   "Javanese"
+  ],
+  "explanation": "Nostalgic pentatonic."
+ },
+ {
+  "id": "m29",
+  "concept": "Chakrulo",
+  "correct": "Georgian",
+  "distractors": [
+   "Cuban",
+   "Persian",
+   "Balinese"
+  ],
+  "explanation": "Polyphonic table song."
+ }
+]

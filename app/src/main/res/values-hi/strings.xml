@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">हार्मोनिया</string>
+    <string name="tab_home">होम</string><string name="tab_western">पश्चिमी</string>
+    <string name="tab_eastern">पूर्वी</string><string name="tab_world">विश्व</string>
+    <string name="tab_games">खेल</string><string name="home_daily">दैनिक चुनौती</string>
+    <string name="common_play_again">फिर से खेलें</string>
+</resources>

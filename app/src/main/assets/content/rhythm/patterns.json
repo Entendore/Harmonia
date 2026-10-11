@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Teentaal — India",
+  "slots": 16,
+  "slotMs": 300,
+  "accents": [
+   0,
+   4,
+   8,
+   12
+  ],
+  "note": "The 16-beat cycle, grouped 4+4+4+4. Sam falls on beat 1."
+ },
+ {
+  "name": "Keherwa — India",
+  "slots": 8,
+  "slotMs": 300,
+  "accents": [
+   0,
+   4
+  ],
+  "note": "The 8-beat groove behind countless film songs."
+ },
+ {
+  "name": "Dadra — India",
+  "slots": 6,
+  "slotMs": 320,
+  "accents": [
+   0,
+   3
+  ],
+  "note": "A gentle 6-beat cycle."
+ },
+ {
+  "name": "Son Clave 3-2 — Cuba",
+  "slots": 16,
+  "slotMs": 160,
+  "accents": [
+   0,
+   3,
+   6,
+   10,
+   12
+  ],
+  "note": "The five-stroke spine of salsa."
+ },
+ {
+  "name": "Bembé bell — W. Africa",
+  "slots": 12,
+  "slotMs": 170,
+  "accents": [
+   0,
+   2,
+   3,
+   5,
+   7,
+   8,
+   10
+  ],
+  "note": "The 12/8 standard timeline."
+ },
+ {
+  "name": "Aksak 7/8 — Balkans",
+  "slots": 7,
+  "slotMs": 230,
+  "accents": [
+   0,
+   2,
+   4
+  ],
+  "note": "The 'limping' 2+2+3 grouping."
+ },
+ {
+  "name": "Soleá — Flamenco",
+  "slots": 12,
+  "slotMs": 190,
+  "accents": [
+   2,
+   5,
+   7,
+   9,
+   10
+  ],
+  "note": "The mother palo: accents on 3-6-8-10-12."
+ },
+ {
+  "name": "Bulerías — Flamenco",
+  "slots": 12,
+  "slotMs": 150,
+  "accents": [
+   0,
+   2,
+   5,
+   7,
+   9,
+   10
+  ],
+  "note": "Fiestero accents flipped to start on 12."
+ },
+ {
+  "name": "Bulgar — Klezmer",
+  "slots": 8,
+  "slotMs": 200,
+  "accents": [
+   0,
+   3,
+   4,
+   6
+  ],
+  "note": "The 2/4 wedding dance."
+ },
+ {
+  "name": "Bossa clave — Brazil",
+  "slots": 16,
+  "slotMs": 150,
+  "accents": [
+   0,
+   3,
+   6,
+   10,
+   13
+  ],
+  "note": "The gentle engine of bossa nova."
+ },
+ {
+  "name": "Samba tamborim — Brazil",
+  "slots": 16,
+  "slotMs": 140,
+  "accents": [
+   0,
+   3,
+   4,
+   6,
+   10,
+   12,
+   14
+  ],
+  "note": "Teleco-teco from Rio's baterias."
+ },
+ {
+  "name": "Usul Düyek — Turkey",
+  "slots": 8,
+  "slotMs": 240,
+  "accents": [
+   0,
+   3,
+   4,
+   6
+  ],
+  "note": "An 8-beat usul of Ottoman makam music."
+ },
+ {
+  "name": "Aksak 9/8 — Turkey",
+  "slots": 9,
+  "slotMs": 200,
+  "accents": [
+   0,
+   2,
+   4,
+   6
+  ],
+  "note": "Grouped 2+2+2+3."
+ },
+ {
+  "name": "Kopanitsa — Bulgaria",
+  "slots": 11,
+  "slotMs": 190,
+  "accents": [
+   0,
+   2,
+   4,
+   7,
+   9
+  ],
+  "note": "11/8 grouped 2+2+2+3+2 — the double-limp."
+ },
+ {
+  "name": "Buchimish — Bulgaria",
+  "slots": 15,
+  "slotMs": 150,
+  "accents": [
+   0,
+   2,
+   4,
+   6,
+   8,
+   11,
+   13
+  ],
+  "note": "15/8 — peak Balkan asymmetry."
+ }
+]

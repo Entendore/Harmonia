@@ -1,0 +1,234 @@
+[
+ {
+  "id": "western_foundations",
+  "emoji": "🏛",
+  "title": "Western Foundations",
+  "blurb": "A 7-day tour from the musical alphabet to pop harmony.",
+  "steps": [
+   {
+    "kind": "TOPIC",
+    "key": "WESTERN_0",
+    "label": "The Musical Alphabet",
+    "gameName": ""
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WESTERN_1",
+    "label": "Intervals",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/interval",
+    "label": "Interval Ear Training",
+    "gameName": "Interval Ear Training"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WESTERN_2",
+    "label": "Scales: Major & Minor",
+    "gameName": ""
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WESTERN_3",
+    "label": "The Modes",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/mode",
+    "label": "Name the Mode",
+    "gameName": "Name the Mode"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WESTERN_4",
+    "label": "Chords & Harmony",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/chord",
+    "label": "Chord Quality",
+    "gameName": "Chord Quality"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WESTERN_5",
+    "label": "Circle of Fifths",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/quiz",
+    "label": "Theory Quiz",
+    "gameName": "Theory Quiz"
+   }
+  ]
+ },
+ {
+  "id": "raga_journey",
+  "emoji": "🪷",
+  "title": "Raga Journey",
+  "blurb": "Swaras, ragas and tala — from drone to sam.",
+  "steps": [
+   {
+    "kind": "TOPIC",
+    "key": "EASTERN_0",
+    "label": "India: Swaras & Shruti",
+    "gameName": ""
+   },
+   {
+    "kind": "TOPIC",
+    "key": "EASTERN_1",
+    "label": "India: Ragas & Thaats",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/ragamaqam",
+    "label": "Raga & Maqam Trainer",
+    "gameName": "Raga & Maqam Trainer"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "EASTERN_2",
+    "label": "India: Tala",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/rhythm",
+    "label": "Rhythm Tap",
+    "gameName": "Rhythm Tap"
+   },
+   {
+    "kind": "GAME",
+    "key": "game/quiz",
+    "label": "Theory Quiz",
+    "gameName": "Theory Quiz"
+   }
+  ]
+ },
+ {
+  "id": "maqam_quarter_tones",
+  "emoji": "🕌",
+  "title": "Maqam & Quarter Tones",
+  "blurb": "Hear the notes between the keys — Rast, Bayati, Hijaz and friends.",
+  "steps": [
+   {
+    "kind": "TOPIC",
+    "key": "EASTERN_3",
+    "label": "Arabic Maqam",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/ragamaqam",
+    "label": "Raga & Maqam Trainer",
+    "gameName": "Raga & Maqam Trainer"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WORLD_2",
+    "label": "Tuning & Microtonality",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/interval",
+    "label": "Interval Ear Training",
+    "gameName": "Interval Ear Training"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "EASTERN_11",
+    "label": "Turkey: The Makam System",
+    "gameName": ""
+   }
+  ]
+ },
+ {
+  "id": "rhythm_passport",
+  "emoji": "🥁",
+  "title": "World Rhythm Passport",
+  "blurb": "Tala, clave, compás and usul — four continents of groove.",
+  "steps": [
+   {
+    "kind": "TOPIC",
+    "key": "WORLD_3",
+    "label": "Rhythmic Traditions",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/rhythm",
+    "label": "Rhythm Tap",
+    "gameName": "Rhythm Tap"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "EASTERN_2",
+    "label": "India: Tala",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/rhythmread",
+    "label": "Rhythm Reading",
+    "gameName": "Rhythm Reading"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WORLD_9",
+    "label": "Flamenco: Compás & Palos",
+    "gameName": ""
+   }
+  ]
+ },
+ {
+  "id": "modes_crash_course",
+  "emoji": "🎼",
+  "title": "Modes Crash Course",
+  "blurb": "Seven colours, then where they really live around the world.",
+  "steps": [
+   {
+    "kind": "TOPIC",
+    "key": "WESTERN_3",
+    "label": "The Modes",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/mode",
+    "label": "Name the Mode",
+    "gameName": "Name the Mode"
+   },
+   {
+    "kind": "TOPIC",
+    "key": "EASTERN_3",
+    "label": "Arabic Maqam",
+    "gameName": ""
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WORLD_10",
+    "label": "Klezmer: Modes & the Bulgar",
+    "gameName": ""
+   },
+   {
+    "kind": "TOPIC",
+    "key": "WORLD_9",
+    "label": "Flamenco: Compás & Palos",
+    "gameName": ""
+   },
+   {
+    "kind": "GAME",
+    "key": "game/quiz",
+    "label": "Theory Quiz",
+    "gameName": "Theory Quiz"
+   }
+  ]
+ }
+]

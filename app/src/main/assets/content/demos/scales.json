@@ -1,0 +1,961 @@
+{
+ "WESTERN_2": [
+  {
+   "name": "Major",
+   "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+   ]
+  },
+  {
+   "name": "Natural minor",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+   ]
+  },
+  {
+   "name": "Harmonic minor",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    11,
+    12
+   ],
+   "note": "The raised 7th pulls home"
+  },
+  {
+   "name": "Melodic minor (ascending)",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    9,
+    11,
+    12
+   ]
+  }
+ ],
+ "WESTERN_3": [
+  {
+   "name": "Ionian — C to C",
+   "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+   ],
+   "note": "The major scale"
+  },
+  {
+   "name": "Dorian — D to D",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    9,
+    10,
+    12
+   ],
+   "note": "Minor with a raised 6th"
+  },
+  {
+   "name": "Phrygian — E to E",
+   "semitones": [
+    0,
+    1,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "note": "The dark flat 2nd"
+  },
+  {
+   "name": "Lydian — F to F",
+   "semitones": [
+    0,
+    2,
+    4,
+    6,
+    7,
+    9,
+    11,
+    12
+   ],
+   "note": "The dreamy sharp 4th"
+  },
+  {
+   "name": "Mixolydian — G to G",
+   "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    10,
+    12
+   ],
+   "note": "Major with a flat 7th"
+  },
+  {
+   "name": "Aeolian — A to A",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "note": "The natural minor"
+  },
+  {
+   "name": "Locrian — B to B",
+   "semitones": [
+    0,
+    1,
+    3,
+    5,
+    6,
+    8,
+    10,
+    12
+   ],
+   "note": "No stable 5th — restless"
+  }
+ ],
+ "WESTERN_4": [
+  {
+   "name": "C major triad",
+   "semitones": [
+    0,
+    4,
+    7
+   ],
+   "note": "Bright — together",
+   "asChord": true
+  },
+  {
+   "name": "C minor triad",
+   "semitones": [
+    0,
+    3,
+    7
+   ],
+   "note": "The 'dark' switch",
+   "asChord": true
+  },
+  {
+   "name": "C diminished triad",
+   "semitones": [
+    0,
+    3,
+    6
+   ],
+   "note": "Tense",
+   "asChord": true
+  },
+  {
+   "name": "C augmented triad",
+   "semitones": [
+    0,
+    4,
+    8
+   ],
+   "note": "Floating",
+   "asChord": true
+  },
+  {
+   "name": "C7 dominant 7th",
+   "semitones": [
+    0,
+    4,
+    7,
+    10
+   ],
+   "note": "The flat-7 that pulls home",
+   "asChord": true
+  }
+ ],
+ "EASTERN_0": [
+  {
+   "name": "Sargam over drone (Bilawal)",
+   "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+   ],
+   "note": "Sa Re Ga Ma Pa Dha Ni over Sa–Pa",
+   "withDrone": true
+  }
+ ],
+ "EASTERN_1": [
+  {
+   "name": "Raga Yaman",
+   "semitones": [
+    0,
+    2,
+    4,
+    6,
+    7,
+    9,
+    11,
+    12,
+    11,
+    9,
+    7,
+    4
+   ],
+   "note": "Lydian-like radiance — evening",
+   "withDrone": true
+  },
+  {
+   "name": "Raga Bhupali",
+   "semitones": [
+    0,
+    2,
+    4,
+    7,
+    9,
+    12,
+    9,
+    7,
+    4,
+    2,
+    0
+   ],
+   "note": "Pure pentatonic",
+   "withDrone": true
+  },
+  {
+   "name": "Raga Bhairav",
+   "semitones": [
+    0,
+    1,
+    4,
+    5,
+    7,
+    8,
+    11,
+    12,
+    11,
+    8,
+    7,
+    5,
+    4,
+    1
+   ],
+   "note": "Solemn dawn — flat 2 and 6",
+   "withDrone": true
+  },
+  {
+   "name": "Raga Bhairavi",
+   "semitones": [
+    0,
+    1,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12,
+    10,
+    8,
+    7,
+    5,
+    3,
+    1
+   ],
+   "note": "The traditional closing raga",
+   "withDrone": true
+  },
+  {
+   "name": "Raga Malkauns",
+   "semitones": [
+    0,
+    3,
+    5,
+    8,
+    10,
+    12,
+    10,
+    8,
+    5,
+    3,
+    0
+   ],
+   "note": "Brooding pentatonic — midnight",
+   "withDrone": true
+  }
+ ],
+ "EASTERN_3": [
+  {
+   "name": "Maqam Rast",
+   "semitones": [
+    0,
+    2,
+    3.5,
+    5,
+    7,
+    9,
+    10.5,
+    12
+   ],
+   "note": "Half-flat 3rd & 7th — real quarter tones!",
+   "withDrone": true
+  },
+  {
+   "name": "Maqam Bayati",
+   "semitones": [
+    0,
+    1.5,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "note": "The half-flat 2nd opens",
+   "withDrone": true
+  },
+  {
+   "name": "Maqam Hijaz",
+   "semitones": [
+    0,
+    1,
+    4,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "note": "The famous augmented 2nd",
+   "withDrone": true
+  },
+  {
+   "name": "Maqam Saba",
+   "semitones": [
+    0,
+    1.5,
+    3,
+    4,
+    7
+   ],
+   "note": "Half-flat 2nd, diminished 4th — poignant",
+   "withDrone": true
+  }
+ ],
+ "EASTERN_5": [
+  {
+   "name": "Hirajoshi",
+   "semitones": [
+    0,
+    2,
+    3,
+    7,
+    8,
+    12
+   ],
+   "note": "The classic koto scale"
+  },
+  {
+   "name": "Yo",
+   "semitones": [
+    0,
+    2,
+    5,
+    7,
+    9,
+    12
+   ],
+   "note": "No semitones — bright folk"
+  },
+  {
+   "name": "In",
+   "semitones": [
+    0,
+    1,
+    5,
+    7,
+    8,
+    12
+   ],
+   "note": "Melancholy semitone placement"
+  },
+  {
+   "name": "Iwato",
+   "semitones": [
+    0,
+    1,
+    5,
+    6,
+    10,
+    12
+   ],
+   "note": "Dark — shrine music"
+  }
+ ],
+ "EASTERN_6": [
+  {
+   "name": "Slendro",
+   "semitones": [
+    0,
+    2.4,
+    4.8,
+    7.2,
+    9.6,
+    12
+   ],
+   "note": "Approximation for reference"
+  },
+  {
+   "name": "Pelog (bem subset)",
+   "semitones": [
+    0,
+    1.2,
+    3.4,
+    5.6,
+    7.6,
+    12
+   ],
+   "note": "Approximation for reference"
+  }
+ ],
+ "EASTERN_9": [
+  {
+   "name": "Dastgah Mahur",
+   "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+   ],
+   "note": "Bright and stately — ≈ major"
+  },
+  {
+   "name": "Dastgah Shur",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    6.5,
+    8,
+    10
+   ],
+   "note": "The melancholic 'mother' dastgah"
+  },
+  {
+   "name": "Dastgah Segah",
+   "semitones": [
+    0,
+    2,
+    3.5,
+    5,
+    7,
+    8.5,
+    10
+   ],
+   "note": "Signature half-flat 3rd — the koron"
+  }
+ ],
+ "EASTERN_11": [
+  {
+   "name": "Makam Hicaz",
+   "semitones": [
+    0,
+    1,
+    4,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "note": "The augmented 2nd — Turkish flavour",
+   "withDrone": true
+  },
+  {
+   "name": "Makam Rast",
+   "semitones": [
+    0,
+    2,
+    3.5,
+    5,
+    7,
+    9,
+    10.5,
+    12
+   ],
+   "note": "The noble 'do' of Turkish music",
+   "withDrone": true
+  }
+ ],
+ "WORLD_0": [
+  {
+   "name": "Anhemitonic pentatonic",
+   "semitones": [
+    0,
+    2,
+    4,
+    7,
+    9,
+    12
+   ],
+   "note": "The black keys — clash-proof"
+  },
+  {
+   "name": "Minor pentatonic",
+   "semitones": [
+    0,
+    3,
+    5,
+    7,
+    10,
+    12
+   ]
+  }
+ ],
+ "WORLD_1": [
+  {
+   "name": "Blues scale",
+   "semitones": [
+    0,
+    3,
+    5,
+    6,
+    7,
+    10,
+    12
+   ],
+   "note": "With the ♭5 'blue note'"
+  },
+  {
+   "name": "Minor pentatonic (no ♭5)",
+   "semitones": [
+    0,
+    3,
+    5,
+    7,
+    10,
+    12
+   ],
+   "note": "Compare — the ♭5 adds the ache"
+  }
+ ],
+ "WORLD_2": [
+  {
+   "name": "Just intonation major",
+   "semitones": [
+    0,
+    2.04,
+    3.86,
+    4.98,
+    7.02,
+    8.84,
+    10.88,
+    12
+   ],
+   "note": "Pure ratios — sweet 3rds"
+  },
+  {
+   "name": "Pythagorean major",
+   "semitones": [
+    0,
+    2.04,
+    4.08,
+    4.98,
+    7.02,
+    9.06,
+    11.1,
+    12
+   ],
+   "note": "Pure 5ths — sharp 3rds"
+  },
+  {
+   "name": "12-tone equal temperament",
+   "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+   ],
+   "note": "The modern compromise"
+  }
+ ],
+ "WORLD_9": [
+  {
+   "name": "Phrygian dominant — 'por arriba'",
+   "semitones": [
+    0,
+    1,
+    4,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "note": "E-based flamenco tonality"
+  },
+  {
+   "name": "Andalusian cadence top chord (E)",
+   "semitones": [
+    0,
+    4,
+    8
+   ],
+   "note": "The cadence's major 'goal'",
+   "asChord": true,
+   "timbre": "PLUCK"
+  }
+ ],
+ "WORLD_10": [
+  {
+   "name": "Freygish",
+   "semitones": [
+    0,
+    1,
+    4,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "note": "The 'Jewish major'"
+  },
+  {
+   "name": "Misheberak",
+   "semitones": [
+    0,
+    2,
+    3,
+    6,
+    7,
+    9,
+    10,
+    12
+   ],
+   "note": "Minor with raised 4th — the dancing mode"
+  }
+ ],
+ "WORLD_11": [
+  {
+   "name": "Tizita",
+   "semitones": [
+    0,
+    2,
+    4,
+    7,
+    9,
+    12
+   ],
+   "note": "Nostalgia — major pentatonic"
+  },
+  {
+   "name": "Bati",
+   "semitones": [
+    0,
+    3,
+    5,
+    7,
+    10,
+    12
+   ],
+   "note": "The minor-pentatonic sibling"
+  },
+  {
+   "name": "Ambassel",
+   "semitones": [
+    0,
+    1,
+    5,
+    7,
+    8,
+    12
+   ],
+   "note": "Angular and proud"
+  }
+ ],
+ "WORLD_12": [
+  {
+   "name": "Open-fifth sonority",
+   "semitones": [
+    0,
+    7,
+    12
+   ],
+   "note": "Typical Georgian open colour",
+   "asChord": true,
+   "timbre": "BELL"
+  },
+  {
+   "name": "Pure triad (just intonation)",
+   "semitones": [
+    0,
+    3.86,
+    7.02
+   ],
+   "note": "Sweetened third",
+   "asChord": true,
+   "timbre": "BELL"
+  }
+ ],
+ "WORLD_13": [
+  {
+   "name": "Bossa — major 7th",
+   "semitones": [
+    0,
+    4,
+    7,
+    11
+   ],
+   "note": "The Jobim sound",
+   "asChord": true,
+   "timbre": "PLUCK"
+  },
+  {
+   "name": "Bossa — minor 9th",
+   "semitones": [
+    0,
+    3,
+    7,
+    10,
+    14
+   ],
+   "note": "Sultry extension",
+   "asChord": true,
+   "timbre": "PLUCK"
+  }
+ ],
+ "WORLD_14": [
+  {
+   "name": "Overtone stack (khoomei's raw material)",
+   "semitones": [
+    0,
+    12,
+    19,
+    24,
+    28,
+    31
+   ],
+   "note": "Fundamental + partials 2–6 — what a throat singer isolates",
+   "asChord": true,
+   "timbre": "BELL"
+  },
+  {
+   "name": "Kargyraa-colour low drone",
+   "semitones": [
+    0,
+    7,
+    12
+   ],
+   "note": "Deep fifth drone",
+   "withDrone": true
+  }
+ ],
+ "WORLD_15": [
+  {
+   "name": "Sharp-2nd choir colour",
+   "semitones": [
+    0,
+    1,
+    3,
+    5,
+    7,
+    8,
+    10
+   ],
+   "note": "The Bulgarian 'bite'"
+  },
+  {
+   "name": "Major with sharp 4th",
+   "semitones": [
+    0,
+    2,
+    4,
+    6,
+    7,
+    9,
+    11
+   ],
+   "note": "Lydian brightness in village dress"
+  }
+ ],
+ "WORLD_16": [
+  {
+   "name": "Son montuno major",
+   "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+   ],
+   "note": "Bright tres territory",
+   "timbre": "PLUCK"
+  },
+  {
+   "name": "V7 guajeo chord",
+   "semitones": [
+    0,
+    4,
+    7,
+    10
+   ],
+   "note": "The dominant everyone resolves",
+   "asChord": true,
+   "timbre": "PLUCK"
+  }
+ ],
+ "WORLD_17": [
+  {
+   "name": "Natural minor (saudade base)",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+   ],
+   "timbre": "PLUCK"
+  },
+  {
+   "name": "Harmonic minor lift",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    11,
+    12
+   ],
+   "note": "Fado's dramatic turn",
+   "timbre": "PLUCK"
+  }
+ ],
+ "WORLD_18": [
+  {
+   "name": "Harmonic minor",
+   "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    11,
+    12
+   ],
+   "timbre": "PLUCK"
+  },
+  {
+   "name": "E7 tango cadence",
+   "semitones": [
+    0,
+    4,
+    7,
+    10
+   ],
+   "note": "The bandoneón's sigh",
+   "asChord": true,
+   "timbre": "PLUCK"
+  }
+ ],
+ "WORLD_19": [
+  {
+   "name": "Taro-patch pentatonic",
+   "semitones": [
+    0,
+    2,
+    4,
+    7,
+    9,
+    12
+   ],
+   "note": "Open-G slack key colour",
+   "timbre": "PLUCK"
+  },
+  {
+   "name": "Vamp dominant 7th",
+   "semitones": [
+    0,
+    4,
+    7,
+    10
+   ],
+   "note": "The Hawaiian wink",
+   "asChord": true,
+   "timbre": "PLUCK"
+  }
+ ],
+ "WORLD_20": [
+  {
+   "name": "Drone-first pentatonic",
+   "semitones": [
+    0,
+    2,
+    4,
+    7,
+    9,
+    12
+   ],
+   "note": "Listen to the ground first",
+   "withDrone": true
+  }
+ ]
+}

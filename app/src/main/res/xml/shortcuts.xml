@@ -1,0 +1,17 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="daily" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/short_daily" android:shortcutLongLabel="@string/short_daily_long">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="${applicationId}"
+            android:targetClass="com.example.musictheory.MainActivity">
+            <extra android:name="route" android:value="daily" /></intent></shortcut>
+    <shortcut android:shortcutId="review" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/short_review" android:shortcutLongLabel="@string/short_review_long">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="${applicationId}"
+            android:targetClass="com.example.musictheory.MainActivity">
+            <extra android:name="route" android:value="review" /></intent></shortcut>
+    <shortcut android:shortcutId="tools" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/short_tools" android:shortcutLongLabel="@string/short_tools_long">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="${applicationId}"
+            android:targetClass="com.example.musictheory.MainActivity">
+            <extra android:name="route" android:value="tools" /></intent></shortcut>
+</shortcuts>
