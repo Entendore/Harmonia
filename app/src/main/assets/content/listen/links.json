@@ -1,0 +1,150 @@
+{
+ "EASTERN_1": [
+  {
+   "title": "Ravi Shankar — Raga Yaman",
+   "query": "Ravi Shankar Raga Yaman"
+  },
+  {
+   "title": "Bhimsen Joshi — Raga Bhairav",
+   "query": "Bhimsen Joshi Raga Bhairav"
+  }
+ ],
+ "EASTERN_2": [
+  {
+   "title": "Zakir Hussain — Teentaal solo",
+   "query": "Zakir Hussain teentaal solo"
+  }
+ ],
+ "EASTERN_3": [
+  {
+   "title": "Fairuz — maqam singing",
+   "query": "Fairuz maqam"
+  },
+  {
+   "title": "Oud taqsim in Maqam Rast",
+   "query": "oud taqsim maqam Rast"
+  }
+ ],
+ "EASTERN_5": [
+  {
+   "title": "Koto — Rokudan (Hirajoshi)",
+   "query": "koto Rokudan Hirajoshi"
+  }
+ ],
+ "EASTERN_6": [
+  {
+   "title": "Javanese gamelan — slendro",
+   "query": "Javanese gamelan slendro"
+  },
+  {
+   "title": "Balinese gamelan — kotekan",
+   "query": "Balinese gamelan kotekan"
+  }
+ ],
+ "EASTERN_7": [
+  {
+   "title": "Gayageum sanjo",
+   "query": "gayageum sanjo"
+  },
+  {
+   "title": "Arirang",
+   "query": "Arirang Korean folk song"
+  }
+ ],
+ "EASTERN_8": [
+  {
+   "title": "Pansori — Chunhyangga",
+   "query": "pansori Chunhyangga"
+  }
+ ],
+ "EASTERN_9": [
+  {
+   "title": "Shajarian — Dastgah",
+   "query": "Shajarian dastgah"
+  }
+ ],
+ "EASTERN_10": [
+  {
+   "title": "Shajarian — tahrir in avaz",
+   "query": "Shajarian tahrir avaz"
+  }
+ ],
+ "EASTERN_11": [
+  {
+   "title": "Ney taksim in Hicaz",
+   "query": "ney taksim hicaz"
+  }
+ ],
+ "WESTERN_3": [
+  {
+   "title": "Miles Davis — 'So What' (Dorian)",
+   "query": "Miles Davis So What"
+  }
+ ],
+ "WORLD_1": [
+  {
+   "title": "B.B. King — 'The Thrill Is Gone'",
+   "query": "B.B. King The Thrill Is Gone"
+  }
+ ],
+ "WORLD_5": [
+  {
+   "title": "Sikuri panpipe ensembles",
+   "query": "sikuri panpipes Lake Titicaca"
+  }
+ ],
+ "WORLD_7": [
+  {
+   "title": "Irish session — reels & jigs",
+   "query": "irish session reels jigs"
+  }
+ ],
+ "WORLD_9": [
+  {
+   "title": "Paco de Lucía — soleá",
+   "query": "Paco de Lucia solea"
+  }
+ ],
+ "WORLD_10": [
+  {
+   "title": "Dave Tarras — klezmer classic",
+   "query": "Dave Tarras klezmer"
+  }
+ ],
+ "WORLD_11": [
+  {
+   "title": "Mahmoud Ahmed — tizita",
+   "query": "Mahmoud Ahmed tizita"
+  }
+ ],
+ "WORLD_12": [
+  {
+   "title": "Chakrulo — Georgian polyphony",
+   "query": "Chakrulo Georgian polyphony"
+  }
+ ],
+ "WORLD_13": [
+  {
+   "title": "João Gilberto — 'Chega de Saudade'",
+   "query": "João Gilberto Chega de Saudade"
+  }
+ ],
+ "WORLD_14": [
+  {
+   "title": "Huun Huur Tu — kargyraa",
+   "query": "Huun Huur Tu kargyraa"
+  }
+ ],
+ "WORLD_15": [
+  {
+   "title": "Bulgarian Choir",
+   "query": "Bulgarian State Television Female Choir"
+  }
+ ],
+ "WORLD_16": [
+  {
+   "title": "Buena Vista Social Club — 'Chan Chan'",
+   "query": "Buena Vista Social Club Chan Chan"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Harmonia</string>
+    <string name="tab_home">Home</string><string name="tab_western">Western</string>
+    <string name="tab_eastern">Eastern</string><string name="tab_world">World</string>
+    <string name="tab_games">Games</string>
+    <string name="home_tagline">Music theory across cultures — Western, Eastern and the wider world.</string>
+    <string name="home_sub">41 topics • 20 games • Voice tools • Practice tools • Studio</string>
+    <string name="home_daily">Daily Challenge</string>
+    <string name="home_daily_done">✓ Today\'s challenge complete — see you tomorrow!</string>
+    <string name="home_streak">%1$d-day streak — keep it burning!</string>
+    <string name="home_review_due">🔁  Spaced review — %1$d due</string>
+    <string name="home_review_ok">🔁  Spaced review — all caught up</string>
+    <string name="home_continue">Continue %1$s →</string>
+    <string name="home_start">Start your journey: %1$s →</string>
+    <string name="chip_search">🔎 Search</string><string name="chip_glossary">📖 Glossary</string>
+    <string name="chip_paths">🗺 Paths</string><string name="chip_stats">📊 Stats</string>
+    <string name="chip_ach">🏅 Achievements</string><string name="chip_tools">🧰 Tools</string>
+    <string name="chip_keyboard">🎹 Keyboard</string><string name="chip_settings">⚙️ Settings</string>
+    <string name="cat_western">Western Classical Theory</string>
+    <string name="cat_eastern">Eastern Musical Traditions</string>
+    <string name="cat_world">World Music Theory</string>
+    <string name="cat_games">🎮 Game Room</string>
+    <string name="sub_western">Scales • Intervals • Modes • Chords • Circle of fifths</string>
+    <string name="sub_eastern">Ragas • Tala • Maqam • Wuyin • Hirajoshi • Gamelan • Gugak • Dastgah</string>
+    <string name="sub_world">Pentatonics • Blues • Tuning • Rhythm • Andes • Celtic</string>
+    <string name="sub_games">Quiz • Ear training • Rhythm • Voice • Studio • Keyboard</string>
+    <string name="common_play_again">Play again</string>
+    <string name="fact_label">📅 Did you know?</string>
+    <string name="short_daily">Daily</string><string name="short_daily_long">Daily Challenge</string>
+    <string name="short_review">Review</string><string name="short_review_long">Spaced Review</string>
+    <string name="short_tools">Tools</string><string name="short_tools_long">Practice Tools</string>
+</resources>

@@ -1,0 +1,350 @@
+[
+ {
+  "term": "Aerophone",
+  "definition": "Air-vibrating instrument — flutes, ney, didgeridoo."
+ },
+ {
+  "term": "Aksak",
+  "definition": "'Limping' additive metre, e.g. 2+2+3."
+ },
+ {
+  "term": "Andalusian cadence",
+  "definition": "Descending iv–III–II–I under flamenco."
+ },
+ {
+  "term": "Anhemitonic",
+  "definition": "Pentatonic with no semitones."
+ },
+ {
+  "term": "Aroha",
+  "definition": "A raga's ascending order."
+ },
+ {
+  "term": "Avaroha",
+  "definition": "A raga's descending order."
+ },
+ {
+  "term": "Avaz",
+  "definition": "Unmetered improvised Persian vocal section."
+ },
+ {
+  "term": "Bayati",
+  "definition": "Most common Arabic maqam — half-flat 2nd."
+ },
+ {
+  "term": "Blue note",
+  "definition": "3rd/5th/7th bent flat in blues."
+ },
+ {
+  "term": "Bodhrán",
+  "definition": "Irish frame drum with a tipper."
+ },
+ {
+  "term": "Bulerías",
+  "definition": "Fast accent-flipping 12-beat palo."
+ },
+ {
+  "term": "Call and response",
+  "definition": "A phrase answered by another voice."
+ },
+ {
+  "term": "Chordophone",
+  "definition": "String instrument."
+ },
+ {
+  "term": "Chromatic",
+  "definition": "Using all 12 semitones."
+ },
+ {
+  "term": "Colotomy",
+  "definition": "Interlocking gong time in gamelan."
+ },
+ {
+  "term": "Compás",
+  "definition": "Flamenco palo's rhythmic cycle."
+ },
+ {
+  "term": "Dastgah",
+  "definition": "Persian melodic system of gushehs."
+ },
+ {
+  "term": "Dorian",
+  "definition": "Minor with raised 6th."
+ },
+ {
+  "term": "Drone",
+  "definition": "Sustained tonal centre under melody."
+ },
+ {
+  "term": "Equal temperament",
+  "definition": "12 equal semitones."
+ },
+ {
+  "term": "Falseta",
+  "definition": "Composed flamenco guitar flourish."
+ },
+ {
+  "term": "Freygish",
+  "definition": "Phrygian dominant — the 'Jewish major'."
+ },
+ {
+  "term": "Gamaka",
+  "definition": "Indian ornamentation of each swara."
+ },
+ {
+  "term": "Gamelan",
+  "definition": "Indonesian gong ensemble."
+ },
+ {
+  "term": "Gusheh",
+  "definition": "Melodic model inside a dastgah."
+ },
+ {
+  "term": "Half-flat",
+  "definition": "A quarter-tone lower — koron."
+ },
+ {
+  "term": "Hemiola",
+  "definition": "3-against-2 feel."
+ },
+ {
+  "term": "Hicaz",
+  "definition": "Makam of the augmented 2nd."
+ },
+ {
+  "term": "Hocket",
+  "definition": "One melody split between players."
+ },
+ {
+  "term": "Idiophone",
+  "definition": "Self-sounding body — gongs, mbira."
+ },
+ {
+  "term": "Ionian",
+  "definition": "The major mode."
+ },
+ {
+  "term": "Janggu",
+  "definition": "Korean hourglass drum."
+ },
+ {
+  "term": "Jig",
+  "definition": "Irish 6/8 dance."
+ },
+ {
+  "term": "Jins",
+  "definition": "Arabic tetrachord."
+ },
+ {
+  "term": "Just intonation",
+  "definition": "Tuning by pure ratios."
+ },
+ {
+  "term": "Keherwa",
+  "definition": "8-beat Indian tala."
+ },
+ {
+  "term": "Koron",
+  "definition": "Persian quarter-flat sign."
+ },
+ {
+  "term": "Kotekan",
+  "definition": "Balinese interlocking parts."
+ },
+ {
+  "term": "Krekhts",
+  "definition": "Klezmer clarinet 'sob'."
+ },
+ {
+  "term": "Krimanchuli",
+  "definition": "Georgian yodelling part."
+ },
+ {
+  "term": "Layakari",
+  "definition": "Rhythmic play against the tala."
+ },
+ {
+  "term": "Ma",
+  "definition": "Japanese expressive silence."
+ },
+ {
+  "term": "Makam",
+  "definition": "Turkish modal system."
+ },
+ {
+  "term": "Maqam",
+  "definition": "Arabic modal system with quarter tones."
+ },
+ {
+  "term": "Matra",
+  "definition": "One beat of a tala."
+ },
+ {
+  "term": "Membranophone",
+  "definition": "Drum with a skin."
+ },
+ {
+  "term": "Meend",
+  "definition": "Indian slide between notes."
+ },
+ {
+  "term": "Menarijo",
+  "definition": "Korean folk lament mode."
+ },
+ {
+  "term": "Microtone",
+  "definition": "Any interval under a semitone."
+ },
+ {
+  "term": "Mixolydian",
+  "definition": "Major with flat 7th."
+ },
+ {
+  "term": "Pakad",
+  "definition": "A raga's signature phrase."
+ },
+ {
+  "term": "Pansori",
+  "definition": "Korean sung storytelling."
+ },
+ {
+  "term": "Pelog",
+  "definition": "Uneven 7-note gamelan tuning."
+ },
+ {
+  "term": "Pentatonic",
+  "definition": "Five-note scale."
+ },
+ {
+  "term": "Phrygian",
+  "definition": "Minor with flat 2nd."
+ },
+ {
+  "term": "Qenet",
+  "definition": "Ethiopian modal family."
+ },
+ {
+  "term": "Quarter tone",
+  "definition": "Half a semitone."
+ },
+ {
+  "term": "Radif",
+  "definition": "Persian canon of ~300 gushehs."
+ },
+ {
+  "term": "Raga",
+  "definition": "Melodic rulebook with mood and time."
+ },
+ {
+  "term": "Rast",
+  "definition": "The noble 'do' of Arabic/Turkish music."
+ },
+ {
+  "term": "Reel",
+  "definition": "4/4 Celtic dance tune."
+ },
+ {
+  "term": "Sam",
+  "definition": "Tala's first beat."
+ },
+ {
+  "term": "Sanjo",
+  "definition": "Korean accelerating solo suite."
+ },
+ {
+  "term": "Semitone",
+  "definition": "Half step."
+ },
+ {
+  "term": "Session",
+  "definition": "Irish tune-sharing gathering."
+ },
+ {
+  "term": "Shruti",
+  "definition": "One of 22 Indian microtones."
+ },
+ {
+  "term": "Sigimsae",
+  "definition": "Korean defining ornamentation."
+ },
+ {
+  "term": "Siku",
+  "definition": "Andean interlocking panpipe."
+ },
+ {
+  "term": "Slendro",
+  "definition": "Near-equal 5-note gamelan tuning."
+ },
+ {
+  "term": "Solfège",
+  "definition": "Do Re Mi naming."
+ },
+ {
+  "term": "Sori",
+  "definition": "Persian quarter-sharp sign."
+ },
+ {
+  "term": "Strathspey",
+  "definition": "Scottish Scotch-snap dance."
+ },
+ {
+  "term": "Swara",
+  "definition": "Indian solfège syllable."
+ },
+ {
+  "term": "Syncopation",
+  "definition": "Accenting the off-beats."
+ },
+ {
+  "term": "Tahrir",
+  "definition": "Persian yodel break."
+ },
+ {
+  "term": "Tala",
+  "definition": "Indian rhythmic cycle."
+ },
+ {
+  "term": "Tanpura",
+  "definition": "Drone lute of raga music."
+ },
+ {
+  "term": "Taqsim",
+  "definition": "Arabic solo improvisation."
+ },
+ {
+  "term": "Tetrachord",
+  "definition": "Four-note span."
+ },
+ {
+  "term": "Teentaal",
+  "definition": "The 16-beat tala."
+ },
+ {
+  "term": "Timeline",
+  "definition": "West African bell pattern."
+ },
+ {
+  "term": "Tonic",
+  "definition": "The home note."
+ },
+ {
+  "term": "Tritone",
+  "definition": "Six semitones — the devil's interval."
+ },
+ {
+  "term": "Usul",
+  "definition": "Turkish rhythmic cycle."
+ },
+ {
+  "term": "Vadi",
+  "definition": "A raga's king note."
+ },
+ {
+  "term": "Wuyin",
+  "definition": "Chinese five-tone scale."
+ },
+ {
+  "term": "Yo",
+  "definition": "Semitone-free Japanese folk scale."
+ }
+]

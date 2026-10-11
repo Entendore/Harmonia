@@ -1,0 +1,6 @@
+<full-backup-content>
+    <exclude domain="database" path="harmonia.db" />
+    <exclude domain="database" path="harmonia.db-wal" />
+    <exclude domain="database" path="harmonia.db-shm" />
+    <exclude domain="file" path="datastore" /><exclude domain="file" path="crash" />
+</full-backup-content>

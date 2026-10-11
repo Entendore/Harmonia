@@ -1,0 +1,62 @@
+[
+ {
+  "id": "WESTERN_0",
+  "category": "WESTERN",
+  "title": "The Musical Alphabet",
+  "tagline": "12 pitches, 7 letters, one keyboard",
+  "body": "Western music names pitches A–G, repeating each octave. The piano's white keys are naturals; black keys are sharps/flats (C♯ = D♭). An octave holds 12 pitches; a half step is the next key, a whole step two. No black keys sit between E–F or B–C.",
+  "related": []
+ },
+ {
+  "id": "WESTERN_1",
+  "category": "WESTERN",
+  "title": "Intervals",
+  "tagline": "The atoms of melody and harmony",
+  "body": "An interval is the distance between two notes: C→E is a major 3rd (4 semitones); C→G a perfect 5th (7). The tritone (6) is the restless 'devil's interval'. Chords are stacked intervals; scales are chains of them.",
+  "related": []
+ },
+ {
+  "id": "WESTERN_2",
+  "category": "WESTERN",
+  "title": "Scales: Major & Minor",
+  "tagline": "W W H W W W H",
+  "body": "The major scale runs W W H W W W H (C major = all white keys). Natural minor is the major from its 6th degree; C major and A minor are relatives. Harmonic minor raises the 7th for a stronger pull home.",
+  "related": []
+ },
+ {
+  "id": "WESTERN_3",
+  "category": "WESTERN",
+  "title": "The Modes",
+  "tagline": "Seven colours in one scale",
+  "body": "Each major scale hides seven modes: Ionian (major), Dorian (minor +♯6), Phrygian (minor +♭2), Lydian (major +♯4), Mixolydian (major +♭7), Aeolian (minor), Locrian (♭2♭5). One changed note changes everything.",
+  "related": [
+   "EASTERN_1",
+   "EASTERN_3",
+   "WORLD_10"
+  ]
+ },
+ {
+  "id": "WESTERN_4",
+  "category": "WESTERN",
+  "title": "Chords & Harmony",
+  "tagline": "Stacked thirds and the pop loop",
+  "body": "Triads stack two thirds: major (bright), minor (dark), diminished (tense), augmented (floating). Sevenths drive motion. The pop loop I–V–vi–IV and the dominant's pull to I are harmony's engine.",
+  "related": []
+ },
+ {
+  "id": "WESTERN_5",
+  "category": "WESTERN",
+  "title": "Circle of Fifths",
+  "tagline": "The map of Western keys",
+  "body": "Twelve keys a perfect 5th apart: clockwise adds sharps (F♯ C♯ G♯ D♯ A♯ E♯ B♯); backwards adds flats. Read signatures instantly; find relative minors; neighbours share six of seven notes.",
+  "related": []
+ },
+ {
+  "id": "WESTERN_6",
+  "category": "WESTERN",
+  "title": "Rhythm & Meter",
+  "tagline": "Organized time",
+  "body": "Note values halve: whole, half, quarter, eighth. Simple meter divides beats by 2 (4/4); compound by 3 (6/8). Syncopation accents off-beats. Most world music is cyclical — tala and timelines loop.",
+  "related": []
+ }
+]

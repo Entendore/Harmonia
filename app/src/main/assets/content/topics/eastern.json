@@ -1,0 +1,128 @@
+[
+ {
+  "id": "EASTERN_0",
+  "category": "EASTERN",
+  "title": "India: Swaras & Shruti",
+  "tagline": "Sa Re Ga Ma Pa Dha Ni",
+  "body": "Seven swaras are India's solfège; only Sa and Pa are fixed. The octave divides into 22 shrutis. A tanpura drones Sa–Pa; gamaka ornaments make melody a continuous landscape.",
+  "related": [
+   "EASTERN_1",
+   "EASTERN_2"
+  ]
+ },
+ {
+  "id": "EASTERN_1",
+  "category": "EASTERN",
+  "title": "India: Ragas & Thaats",
+  "tagline": "Scales with souls and rules",
+  "body": "A raga is a melodic rulebook: ascent, descent, signature phrases, mood, even time of day. Ten parent thaats organize hundreds of ragas — Yaman (evening, Lydian-like), Bhairav (dawn).",
+  "related": [
+   "EASTERN_0",
+   "EASTERN_3"
+  ]
+ },
+ {
+  "id": "EASTERN_2",
+  "category": "EASTERN",
+  "title": "India: Tala",
+  "tagline": "Cyclical rhythm and sam",
+  "body": "Tala is a repeating cycle of matras. Teentaal = 16 beats (4+4+4+4); sam, beat one, is the dramatic home. Layakari plays beat-divisions against the cycle.",
+  "related": [
+   "WORLD_3",
+   "WORLD_15"
+  ]
+ },
+ {
+  "id": "EASTERN_3",
+  "category": "EASTERN",
+  "title": "Arabic Maqam",
+  "tagline": "Music between the keys",
+  "body": "Maqam organizes Arabic melody with quarter tones. Rast = major with half-flat 3rd/7th; Bayati's half-flat 2nd; Hijaz's augmented 2nd. Maqamat stack tetrachords (jins); the taqsim explores them.",
+  "related": [
+   "EASTERN_11",
+   "WORLD_2"
+  ]
+ },
+ {
+  "id": "EASTERN_4",
+  "category": "EASTERN",
+  "title": "China: Wuyin Pentatonic",
+  "tagline": "Gong Shang Jue Zhi Yu",
+  "body": "The five-tone wuyin ≈ Do Re Mi Sol La — no 4th or 7th, no semitones. Each tone can be home, giving five modes. Colours guqin, guzheng and folk melody.",
+  "related": []
+ },
+ {
+  "id": "EASTERN_5",
+  "category": "EASTERN",
+  "title": "Japan: Hirajoshi & Beyond",
+  "tagline": "Where the semitones fall",
+  "body": "Japanese pentatonics are defined by semitone placement: Hirajoshi (koto), Yo (bright folk), In (melancholy), Iwato (dark). Koto, shakuhachi and gagaku carry them — with ma: expressive silence.",
+  "related": []
+ },
+ {
+  "id": "EASTERN_6",
+  "category": "EASTERN",
+  "title": "Indonesia: Gamelan",
+  "tagline": "Slendro, pelog and bronze",
+  "body": "Gamelan tunes each ensemble uniquely — one 'body'. Slendro: five near-equal steps; pelog: seven uneven, five used. Bali interlocks kotekan; Java breathes courtly calm. Debussy heard it in 1889.",
+  "related": [
+   "WORLD_2"
+  ]
+ },
+ {
+  "id": "EASTERN_7",
+  "category": "EASTERN",
+  "title": "Korea: Gugak Foundations",
+  "tagline": "Modes made of ornament",
+  "body": "Gugak splits into refined jeongak and folk minsogak. Modes live in sigimsae — required bends per degree; menarijo is the southwest lament. Gayageum, daegeum, haegeum, janggu.",
+  "related": []
+ },
+ {
+  "id": "EASTERN_8",
+  "category": "EASTERN",
+  "title": "Korea: Sanjo, Pansori & Jangdan",
+  "tagline": "Accelerating suites",
+  "body": "Sanjo: solo instrument with janggu accelerates through cycles. Pansori: one singer plus one drummer whose chuimsae shouts are rhythm and applause in one.",
+  "related": [
+   "EASTERN_7"
+  ]
+ },
+ {
+  "id": "EASTERN_9",
+  "category": "EASTERN",
+  "title": "Persia: The Dastgah System",
+  "tagline": "Radif, gushehs, quarter tones",
+  "body": "Persian classical music holds 12 systems: 7 dastgah plus 5 avaz. A dastgah is a mapped family of gushehs. The radif canonizes ~300 gushehs. Koron (half-flat) and sori notate the microtones.",
+  "related": [
+   "EASTERN_3"
+  ]
+ },
+ {
+  "id": "EASTERN_10",
+  "category": "EASTERN",
+  "title": "Persia: Avaz & Tahrir",
+  "tagline": "A mapped journey, freely walked",
+  "body": "Dastgah performance is improvised within the map. Avaz is unmetered song framed by tasnif and chaharmezrab. Tahrir, the yodel-like break, crowns Persian singing.",
+  "related": [
+   "EASTERN_9"
+  ]
+ },
+ {
+  "id": "EASTERN_11",
+  "category": "EASTERN",
+  "title": "Turkey: The Makam System",
+  "tagline": "Commas and seyir",
+  "body": "Turkish makam divides whole tones into 9 commas, walking tetrachords in a seyir. Rast, Ussak, Hicaz, Segah lead a fasıl; taksim improvises freely. Ney, tanbur, kanun, kemençe.",
+  "related": [
+   "EASTERN_3"
+  ]
+ },
+ {
+  "id": "EASTERN_12",
+  "category": "EASTERN",
+  "title": "Turkey: Usul & Forms",
+  "tagline": "Cycles behind the melody",
+  "body": "Every Turkish piece rides a usul — düm and tek strokes from 2 beats to 120. Düyek (8) and aksak 9/8 (2+2+2+3) are everyday favourites.",
+  "related": []
+ }
+]

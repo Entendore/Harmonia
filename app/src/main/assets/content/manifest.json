@@ -1,0 +1,20 @@
+{
+ "schemaVersion": 1,
+ "contentVersion": 1,
+ "counts": {
+  "topics/western.json": 7,
+  "topics/eastern.json": 13,
+  "topics/world.json": 21,
+  "questions/all.json": 114,
+  "match/match.json": 30,
+  "phrases/phrases.json": 13,
+  "glossary.json": 87,
+  "facts.json": 26,
+  "listen/links.json": 22,
+  "listen/cues.json": 20,
+  "demos/scales.json": 25,
+  "rhythm/patterns.json": 15,
+  "paths/paths.json": 5,
+  "compare.json": 8
+ }
+}

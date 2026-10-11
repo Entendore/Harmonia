@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">하르모니아</string>
+    <string name="tab_home">홈</string><string name="tab_western">서양</string>
+    <string name="tab_eastern">동양</string><string name="tab_world">세계</string>
+    <string name="tab_games">게임</string><string name="home_daily">오늘의 챌린지</string>
+    <string name="common_play_again">다시 하기</string>
+</resources>
